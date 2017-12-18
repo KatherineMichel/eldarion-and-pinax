@@ -7,6 +7,20 @@ http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverag
 * [CircleCI](https://circleci.com)
 * [Codecov](https://codecov.io)
 
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+
+Tox (Automation)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
+* [isort GitHub](https://github.com/timothycrosley/isort)
+
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
 https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
 https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
