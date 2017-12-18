@@ -1,5 +1,18 @@
 # Eldarion and Pinax
 
+<!--
+http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality/
+http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/
+
+* [CircleCI](https://circleci.com)
+* [Codecov](https://codecov.io)
+
+https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
+https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+https://help.github.com/articles/about-releases/ | About Releases - User Documentation
+-->
+
 Django, Kubernetes, React
 * [Django](https://www.djangoproject.com)
 * [Kubernetes](https://kubernetes.io)
