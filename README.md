@@ -64,6 +64,10 @@ Release Process
 * [Pinax App Release Process](https://github.com/pinax/pinax/wiki/App-Release-Process)
 
 <!--
+https://packaging.python.org/tutorials/distributing-packages
+https://wheel.readthedocs.io/en/latest
+https://pip.pypa.io/en/stable/reference/pip_wheel
+
 http://pinaxproject.com/pinax/release_process
 http://pinaxproject.com/pinax/how-tos/release-starter-project
 -->
