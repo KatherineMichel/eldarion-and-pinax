@@ -65,13 +65,7 @@ Release Process
 * [Pinax Release Process](http://pinaxproject.com/pinax/release_process)
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
-Packages
-
 <!--
-https://packaging.python.org/tutorials/distributing-packages
-https://wheel.readthedocs.io/en/latest
-https://pip.pypa.io/en/stable/reference/pip_wheel
-
 https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
 
 https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
