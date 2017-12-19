@@ -2,7 +2,31 @@
 
 <!--
 http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality/
-http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/
+http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
+http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
+
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
+http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
+
+https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
+
+https://github.com/pinax/pinax/wiki
+https://github.com/pinax/pinax/wiki/Converting-to-CircleCi-and-Codecov | Converting to CircleCi and Codecov · pinax/pinax Wiki
+
+https://github.com/pinax/pinax
+https://github.com/pinax/pinax/tree/master/docs
+
+https://pinax-blog.readthedocs.io/en/latest
+http://pinaxproject.com/pinax
+http://pinaxproject.com/pinax/quick_start
+http://pinaxproject.com/pinax/quick_start_manual/ | Quick Start Manual - Pinax Documentation
+http://pinaxproject.com/pinax/apps_list
+
+https://twitter.com/paltman
+
+Converting
+https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
 
 * [CircleCI](https://circleci.com)
 * [Codecov](https://codecov.io)
@@ -50,7 +74,7 @@ Pinax
 People
 * [James Tauber](http://jtauber.com) and [J.K. Tauber](https://jktauber.com)
 * [James Tauber GitHub](https://github.com/jtauber)
-* [Patrick Altman CodePen](https://codepen.io/paltman)
+* [Patrick Altman](http://paltman.com) and [Patrick Altman CodePen](https://codepen.io/paltman)
 
 Site Care
 * [Eldarion Site Care and Maintenance](http://eldarion.com/consulting/django-site-care)
