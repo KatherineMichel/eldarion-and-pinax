@@ -62,14 +62,22 @@ Current Release
 
 Release Process
 * [Pinax App Release Process](https://github.com/pinax/pinax/wiki/App-Release-Process)
+* [Pinax Release Process](http://pinaxproject.com/pinax/release_process)
+* [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
+
+Packages
 
 <!--
 https://packaging.python.org/tutorials/distributing-packages
 https://wheel.readthedocs.io/en/latest
 https://pip.pypa.io/en/stable/reference/pip_wheel
 
-http://pinaxproject.com/pinax/release_process
-http://pinaxproject.com/pinax/how-tos/release-starter-project
+https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
+
+https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
+https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+https://help.github.com/articles/about-releases/ | About Releases - User Documentation
 -->
 
 Past Releases
@@ -100,17 +108,6 @@ Testing and CI
 http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality/
 http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
 http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
--->
-
-Packages
-
-<!--
-https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
-
-https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
-https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
-https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
-https://help.github.com/articles/about-releases/ | About Releases - User Documentation
 -->
 
 How to Contribute
