@@ -114,6 +114,22 @@ How to Contribute
 * [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
 
+Triaging Labels
+* difficulty: easy
+* difficulty: medium
+* difficulty: hard
+* bug
+* docs
+* enhancement
+* question
+* for discussion
+* backward incompatible change
+* new starter project
+* community
+* up-for-grabs
+* first-timers-only
+* DjangoCon Sprint
+
 Clients and Orgs
 * [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
 * [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
