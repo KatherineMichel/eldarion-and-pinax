@@ -67,11 +67,14 @@ Release Process
 
 <!--
 https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
+-->
 
-https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
-https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
+Tags and Releases
+* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
+* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
+
+<!--
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
-https://help.github.com/articles/about-releases/ | About Releases - User Documentation
 -->
 
 Past Releases
