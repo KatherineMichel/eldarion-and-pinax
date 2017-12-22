@@ -35,6 +35,7 @@ Eldarion
 
 Pinax
 * [Pinax](http://pinaxproject.com) and [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
+* [Pinax Wikipedia](https://en.wikipedia.org/wiki/Pinax)
 * [Pinax Twitter](https://twitter.com/pinaxproject)
 * [Pinax Blog](http://blog.pinaxproject.com) and [Pinax Medium](https://medium.com/pinax)
 * [Pinax GitHub](https://github.com/pinax)
@@ -53,6 +54,12 @@ Site Care
 Dedicated Python Hosting
 * [Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes (Formerly Gondor)](http://eldarion.cloud)
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
+
+<!--
+Packages
+https://pypi.org/project/pinax-likes/#files | pinax-likes · Warehouse (PyPI)
+https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python Package Index
+-->
 
 Current Release
 * [Pinax Wiki](https://github.com/pinax/pinax/wiki)
