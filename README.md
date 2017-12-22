@@ -55,9 +55,13 @@ Dedicated Python Hosting
 * [Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes (Formerly Gondor)](http://eldarion.cloud)
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
+Pinax Packages
+* [Warehouse Pinax Search](https://pypi.org/search/?q=pinax)
+* [PyPi Pinax Search](https://pypi.python.org/pypi?%3Aaction=search&term=pinax&submit=search)
+
 <!--
 Packages
-https://pypi.org/project/pinax-likes/#files | pinax-likes · Warehouse (PyPI)
+https://pypi.org/project/pinax-likes | pinax-likes · Warehouse (PyPI)
 https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python Package Index
 -->
 
