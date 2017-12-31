@@ -59,6 +59,10 @@ Pinax Packages
 * [Warehouse Pinax Search](https://pypi.org/search/?q=pinax)
 * [PyPi Pinax Search](https://pypi.python.org/pypi?%3Aaction=search&term=pinax&submit=search)
 
+Warehouse Profiles
+* [Patrick Altman](https://pypi.org/user/paltman)
+* [Brian Rosner](https://pypi.org/user/brosner)
+
 <!--
 Packages
 https://pypi.org/project/pinax-likes | pinax-likes · Warehouse (PyPI)
