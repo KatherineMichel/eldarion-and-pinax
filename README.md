@@ -8,6 +8,7 @@ https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
 http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
 http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
+http://pinaxproject.com/pinax/how-tos/release-starter-project/ | Releasing a Starter Project - Pinax Documentation
 
 http://pinaxproject.com/pinax
 http://pinaxproject.com/pinax/quick_start
