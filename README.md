@@ -6,6 +6,9 @@ Style Guide
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+
 https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
 
 https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
