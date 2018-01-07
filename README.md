@@ -3,6 +3,19 @@
 <!--
 Style Guide
 
+the way you know if `account` should be added to `known_third_party` is by setup.py “install_requires”. If DUA is in there then “account” should be in 3rd party. Same for other required apps. Check settings.py for the actual app name that needs to be in 3rd party… i.e. “django-user-accounts” app name is “account”.
+
+```[testenv:checkqa]
+commands =
+    flake8 pinax
+    isort --recursive --check-only --diff pinax -sp tox.ini
+```
+Run these separately on command line before invoking `detox` in order to catch issues.
+ `flake8 pinax` looks good
+`isort --recursive --check-only --diff pinax -sp tox.ini` isn’t so happy
+but the solution is simple 
+`isort --recursive pinax -sp tox.ini`
+
 Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
 * [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
