@@ -3,6 +3,7 @@
 <!--
 Style Guide
 
+https://pypi.python.org/pypi/flake8
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
 
 the way you know if `account` should be added to `known_third_party` is by setup.py “install_requires”. If DUA is in there then “account” should be in 3rd party. Same for other required apps. Check settings.py for the actual app name that needs to be in 3rd party… i.e. “django-user-accounts” app name is “account”.
