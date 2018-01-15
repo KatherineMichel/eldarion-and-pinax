@@ -1,10 +1,10 @@
 # Eldarion and Pinax
 
 <!--
-Style Guide
+https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
+https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
 
-https://pypi.python.org/pypi/flake8
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+Style Guide
 
 the way you know if `account` should be added to `known_third_party` is by setup.py “install_requires”. If DUA is in there then “account” should be in 3rd party. Same for other required apps. Check settings.py for the actual app name that needs to be in 3rd party… i.e. “django-user-accounts” app name is “account”.
 
@@ -23,31 +23,13 @@ Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
 * [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
 
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
-https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-https://en.wikipedia.org/wiki/Code_coverage
-https://martinfowler.com/bliki/TestCoverage.html
-
 https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
-
-https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
-
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
-http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
-http://pinaxproject.com/pinax/how-tos/release-starter-project/ | Releasing a Starter Project - Pinax Documentation
-
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/quick_start_manual/ | Quick Start Manual - Pinax Documentation
-http://pinaxproject.com/pinax/apps_list
 
 https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
 https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
@@ -99,9 +81,12 @@ Warehouse Profiles
 * [Brian Rosner](https://pypi.org/user/brosner)
 
 <!--
+https://github.com/pinax/pinax-cli | pinax/pinax-cli: a tool for easily instantiating Pinax starter projects (django templates)
+
 Packages
 https://pypi.org/project/pinax-likes | pinax-likes · Warehouse (PyPI)
 https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python Package Index
+https://pypi.python.org/pypi/pinax-documents | pinax-documents 1.0.0 : Python Package Index
 -->
 
 Current Release
@@ -117,6 +102,10 @@ Release Process
 
 <!--
 https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
+
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
+http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
 -->
 
 Tags and Releases
@@ -133,6 +122,18 @@ Past Releases
 * [Checklist for 16.04 candidate apps](https://github.com/pinax/pinax/issues/113)
 * [Pinax 16.04 Update Blog Post](http://blog.pinaxproject.com/2016/03/10/update-pinax-1604)
 * [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604)
+
+<!--
+https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
+
+* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+
+https://github.com/pinax/pinax/issues/84#issuecomment-189625770 | Proposal for Pinax Distribution Versioning · Issue #84 · pinax/pinax
+https://github.com/pinax/pinax/blob/master/check.py
+https://github.com/pinax/pinax/blob/master/projects.json
+https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
+-->
 
 Django, Kubernetes, React
 * [Django](https://www.djangoproject.com)
@@ -152,6 +153,13 @@ Testing and CI
 * [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
 
 <!--
+https://pypi.python.org/pypi/flake8
+
+https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+
 http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality/
 http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
 http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
