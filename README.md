@@ -187,6 +187,10 @@ Release Process
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 <!--
+https://github.com/pinax/pinax-theme-bootstrap/wiki/Roadmap-to-Semantic-Markup | Roadmap to Semantic Markup · pinax/pinax-theme-bootstrap Wiki
+https://templates.pinaxproject.com/ | Pinax Templates | pinax-project-zero
+https://github.com/pinax/pinax-templates/tree/master/pinax/templates/templates/pinax | pinax/pinax-templates
+
 http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
 http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
 
