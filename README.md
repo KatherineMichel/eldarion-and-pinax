@@ -1,6 +1,9 @@
 # Eldarion and Pinax
 
 <!--
+https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
+http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
+
 Location of site-packages
 pipenv --venv
 
@@ -25,12 +28,16 @@ Run these separately on command line before invoking `detox` in order to catch i
 but the solution is simple 
 `isort --recursive pinax -sp tox.ini`
 
-https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
-
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
 https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
+-->
+
+Overview
+
+<!--
+State of Pinax
 
 https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
 https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
@@ -102,6 +109,8 @@ Release Process
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 <!--
+https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
+
 https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
 
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
@@ -182,12 +191,10 @@ How to Contribute
 * [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
 
-<!--
 Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
 * [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
--->
 
 Triaging Labels
 * difficulty: easy
