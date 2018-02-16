@@ -3,6 +3,8 @@
 <!--
 Eldarion website, conferences
 
+http://eldarion.com/blog/post/KijaLQaw/ | Getting Started With a Site: Your Waitinglist — Eldarion Blog
+
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 
 Business Model Canvas
