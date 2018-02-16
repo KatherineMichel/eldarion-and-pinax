@@ -73,6 +73,7 @@ Work in Progress
 Runtests
 Link to explemplary demos (that use each app) in READMEs
 Docs, documenting features
+Tools used by Eldarion
 
 https://www.npmjs.com/package/pinax-images-panel
 
@@ -169,15 +170,20 @@ Past Releases
 * [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
 
 <!--
+http://blog.pinaxproject.com/2016/08/15/release-pinax-1607/ | Release of Pinax 16.07 | The Pinax Project Blog
+
 https://github.com/pinax/pinax/issues/84#issuecomment-189625770 | Proposal for Pinax Distribution Versioning · Issue #84 · pinax/pinax
 -->
 
 Distribution Scripts
 
 <!--
-https://github.com/pinax/pinax/blob/master/check.py
+Pinax Release Script
+https://github.com/pinax/pinax/blob/master/check.py | pinax/check.py at master · pinax/pinax
 https://github.com/pinax/pinax/blob/master/projects.json
 https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
+
+https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
 
 Django, Kubernetes, React
