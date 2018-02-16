@@ -1,22 +1,15 @@
 # Eldarion and Pinax
 
 <!--
+https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
+https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
+
+https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
+
+
 Eldarion website, conferences
 
 https://github.com/deep-reader/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
-
-https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
-https://github.com/PerseusDL | PerseusDL
-https://twitter.com/PerseusDigLib
-https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
-https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
-
-http://capitains.org/ | CapiTainS
-https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
-
-Stripe
-https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
-https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
 
 Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
 
@@ -29,35 +22,18 @@ https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a850
 
 http://theleanstartup.com/principles | The Lean Startup | Methodology
 
-http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
-
-http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
-
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ | Pinax Project - YouTube - YouTube
-https://github.com/orgs/eldarion/teams/developers | Developers · Eldarion, Inc. Discussion
 
 https://thoughtstreams.io/ | ThoughtStreams — a micro-blog for every idea
 https://github.com/eldarion/thought-streams | thought-streams/tests.py at master · eldarion/thought-streams
 
-https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
-https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
-
-https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
-https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
-
-https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
-
 https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
+
 
 Location of site-packages
 pipenv --venv
 
 Then browse to:
 lib/python3.6/site-packages
-
-https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
-https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
-https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
 
 Style Guide
 
@@ -78,6 +54,10 @@ but the solution is simple
 About Pinax and State of Pinax
 
 <!--
+Eldarion Year in Review blog posts
+
+http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
+
 https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
 https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
 
@@ -128,6 +108,10 @@ Eldarion
 * [Eldarion Clients GitHub](https://github.com/eldarion-client)
 * [Eldarion YouTube](https://www.youtube.com/channel/UCnop70xOY_4dAr4YB9jjlOg)
 * [Eldarion LinkedIn](https://www.linkedin.com/company/eldarion)
+
+<!--
+https://github.com/orgs/eldarion/teams/developers | Developers · Eldarion, Inc. Discussion
+-->
 
 Pinax
 * [Pinax](http://pinaxproject.com) and [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
@@ -187,6 +171,10 @@ Release Process
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 <!--
+Stripe
+https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
+https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
+
 https://github.com/pinax/pinax-theme-bootstrap/wiki/Roadmap-to-Semantic-Markup | Roadmap to Semantic Markup · pinax/pinax-theme-bootstrap Wiki
 https://templates.pinaxproject.com/ | Pinax Templates | pinax-project-zero
 https://github.com/pinax/pinax-templates/tree/master/pinax/templates/templates/pinax | pinax/pinax-templates
@@ -287,6 +275,11 @@ How to Contribute
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
 
 <!--
+http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
+
+https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
+https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
 -->
 
@@ -314,6 +307,21 @@ Triaging Labels
 Clients and Orgs
 * [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
 * [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
+
+<!--
+https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
+https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
+https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
+
+https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
+https://github.com/PerseusDL | PerseusDL
+https://twitter.com/PerseusDigLib
+https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
+https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
+
+http://capitains.org/ | CapiTainS
+https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
+-->
 
 Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
