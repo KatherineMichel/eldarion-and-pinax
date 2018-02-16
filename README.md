@@ -3,6 +3,12 @@
 <!--
 Eldarion website, conferences
 
+Stripe
+https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
+https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
+
+Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
+
 http://eldarion.com/blog/post/KijaLQaw/ | Getting Started With a Site: Your Waitinglist — Eldarion Blog
 
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
