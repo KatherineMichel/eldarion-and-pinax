@@ -1,9 +1,11 @@
 # Eldarion and Pinax
 
 <!--
+Contributor Forum
+
 https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
 
-https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
+https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
 
 Location of site-packages
 pipenv --venv
@@ -11,6 +13,7 @@ pipenv --venv
 Then browse to:
 lib/python3.6/site-packages
 
+https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
 https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
 https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
 
@@ -28,18 +31,11 @@ Run these separately on command line before invoking `detox` in order to catch i
 `isort --recursive --check-only --diff pinax -sp tox.ini` isn’t so happy
 but the solution is simple 
 `isort --recursive pinax -sp tox.ini`
-
-http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
-https://fontawesome.com | Font Awesome 5 | Font Awesome
-
-https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
 -->
 
-Overview
+About Pinax and State of Pinax
 
 <!--
-State of Pinax
-
 https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
 https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
 
@@ -110,6 +106,9 @@ Release Process
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 <!--
+Runtests
+Link to explementary demos (that use each app) in READMEs
+
 http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
 
 https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 | Create setup.py by grahamu · Pull Request #56 · pinax/pinax-starter-projects
@@ -167,6 +166,11 @@ Django, Kubernetes, React
 * [Django](https://www.djangoproject.com)
 * [Kubernetes](https://kubernetes.io)
 * [React](https://facebook.github.io/react)
+
+<!--
+http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
+https://fontawesome.com | Font Awesome 5 | Font Awesome
+-->
 
 Testing and CI
 * [CircleCI](https://circleci.com)
