@@ -1,8 +1,6 @@
 # Eldarion and Pinax
 
 <!--
-Contributor Forum
-
 https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
 
 https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
@@ -46,6 +44,30 @@ https://2016.djangocon.us/schedule/presentation/45/ | Presentation: Building JSO
 https://speakerdeck.com/brosner/pinax | Building JSON APIs with Django / Pinax // Speaker Deck
 https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to the JSON:API specification
 http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
+-->
+
+Work in Progress
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+* [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
+* [Patch Game GitHub](https://github.com/pinax/patch-game)
+* [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
+
+<!--
+Contributor Forum
+
+Runtests
+Link to explementary demos (that use each app) in READMEs
+
+http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
+
+https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
+
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+
+Inspired by Lincoln Loop "Using setup.py in Your (Django) Project" 
+https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 | Create setup.py by grahamu · Pull Request #56 · pinax/pinax-starter-projects
+
+https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
 -->
 
 Eldarion
@@ -106,18 +128,6 @@ Release Process
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 <!--
-Runtests
-Link to explementary demos (that use each app) in READMEs
-
-http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
-
-https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 | Create setup.py by grahamu · Pull Request #56 · pinax/pinax-starter-projects
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-
-https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
-
-https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
-
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
 http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
 http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
@@ -153,15 +163,6 @@ https://github.com/pinax/pinax/blob/master/projects.json
 https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
 -->
 
-Demo Project Proposals
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-
-<!--
-https://github.com/eldarion/pycon-israel | eldarion/pycon-israel: updates to Symposion for PyCon Israel
-https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project | Conference Starter Project · pinax/pinax-starter-projects Wiki
-https://github.com/pinax/patch-game | pinax/patch-game: guess the Pinax patch
--->
-
 Django, Kubernetes, React
 * [Django](https://www.djangoproject.com)
 * [Kubernetes](https://kubernetes.io)
@@ -189,7 +190,6 @@ https://docs.python.org/3.7/distutils/sourcedist.html | 4. Creating a Source Dis
 https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
 https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
 https://codecov.io/#features | Codecov
-http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
 
 https://docs.pipenv.org/ | Pipenv: Python Dev Workflow for Humans — pipenv 9.0.3 documentation
