@@ -3,6 +3,17 @@
 <!--
 Eldarion website, conferences
 
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
+
+Business Model Canvas
+https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a8509296e3cd543ee7c6881cada7082376d4dfdf4eac40e849490c0dba2d178b.svg | Artboard 101
+
+http://theleanstartup.com/principles | The Lean Startup | Methodology
+
+http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
+
+http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
+
 https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ | Pinax Project - YouTube - YouTube
 https://github.com/orgs/eldarion/teams/developers | Developers · Eldarion, Inc. Discussion
 
@@ -118,6 +129,13 @@ Dedicated Python Hosting
 * [Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes (Formerly Gondor)](http://eldarion.cloud)
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
+<!--
+Eldarion Cloud,  Blog and Docs (formerly Gondor)
+https://github.com/eldarion-gondor | Gondor
+https://blog.eldarion.cloud/ 
+http://eldarion-gondor.github.io/docs/#how-tos | Eldarion Cloud Documentation
+-->
+
 Pinax Packages
 * [Warehouse Pinax Search](https://pypi.org/search/?q=pinax)
 * [PyPi Pinax Search](https://pypi.python.org/pypi?%3Aaction=search&term=pinax&submit=search)
@@ -231,7 +249,9 @@ https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipe
 https://en.wikipedia.org/wiki/Code_coverage
 https://martinfowler.com/bliki/TestCoverage.html
 
-http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality/
+https://www.reddit.com/r/Python/comments/7brkpn/how_we_maintain_high_levels_of_code_quality/ | How We Maintain High Levels of Code Quality : Python
+
+http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality | How We Maintain High Levels of Code Quality — Eldarion Blog
 http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
 http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
 -->
@@ -239,6 +259,10 @@ http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-version
 How to Contribute
 * [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
+
+<!--
+https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
+-->
 
 Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
