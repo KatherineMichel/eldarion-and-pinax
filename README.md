@@ -1,6 +1,11 @@
 # Eldarion and Pinax
 
 <!--
+Eldarion website, conferences
+
+https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
+https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+
 https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
 
 https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
@@ -46,21 +51,22 @@ https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to th
 http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
 -->
 
-Demo Projects- Work in Progress
+Work in Progress
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
 * [Patch Game GitHub](https://github.com/pinax/patch-game)
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
+* [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
+* [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
+* ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
 
 <!--
-Contributor Forum
-
 Runtests
-Link to explementary demos (that use each app) in READMEs
+Link to explemplary demos (that use each app) in READMEs
+Docs, documenting features
 
 http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
-
-https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci/ | Continuously Deploying Python Packages to PyPI with CircleCI - CircleCI
+https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
 
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 
@@ -128,9 +134,10 @@ Release Process
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 <!--
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
 http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
 http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
+
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
 -->
 
 Tags and Releases
@@ -150,8 +157,6 @@ Past Releases
 * [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
 
 <!--
-https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
-
 https://github.com/pinax/pinax/issues/84#issuecomment-189625770 | Proposal for Pinax Distribution Versioning · Issue #84 · pinax/pinax
 -->
 
