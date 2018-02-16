@@ -25,11 +25,6 @@ Run these separately on command line before invoking `detox` in order to catch i
 but the solution is simple 
 `isort --recursive pinax -sp tox.ini`
 
-Example First-Timers Info
-* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-
 https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
 
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
@@ -123,22 +118,34 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 -->
 
 Past Releases
+* [Pinax 18.01 Plan](https://github.com/pinax/pinax/wiki/Pinax-18.01)
 * [Pinax 16.10 Plan](https://github.com/pinax/pinax/wiki/Pinax-16.10-Plan)
 * [Pinax 16.07](https://github.com/pinax/pinax/wiki/Pinax-16.07)
 * [Checklist for 16.04 candidate apps](https://github.com/pinax/pinax/issues/113)
 * [Pinax 16.04 Update Blog Post](http://blog.pinaxproject.com/2016/03/10/update-pinax-1604)
-* [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604)
+* [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
 
 <!--
 https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
 
-* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-
 https://github.com/pinax/pinax/issues/84#issuecomment-189625770 | Proposal for Pinax Distribution Versioning · Issue #84 · pinax/pinax
+-->
+
+Distribution Scripts
+
+<!--
 https://github.com/pinax/pinax/blob/master/check.py
 https://github.com/pinax/pinax/blob/master/projects.json
 https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
+-->
+
+Demo Project Proposals
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+
+<!--
+https://github.com/eldarion/pycon-israel | eldarion/pycon-israel: updates to Symposion for PyCon Israel
+https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project | Conference Starter Project · pinax/pinax-starter-projects Wiki
+https://github.com/pinax/patch-game | pinax/patch-game: guess the Pinax patch
 -->
 
 Django, Kubernetes, React
@@ -174,6 +181,13 @@ http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-version
 How to Contribute
 * [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
+
+<!--
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+-->
 
 Triaging Labels
 * difficulty: easy
