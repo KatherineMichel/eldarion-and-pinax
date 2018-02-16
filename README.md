@@ -46,7 +46,7 @@ https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to th
 http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
 -->
 
-Work in Progress
+Demo Projects- Work in Progress
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
 * [Patch Game GitHub](https://github.com/pinax/patch-game)
@@ -203,6 +203,7 @@ https://pypi.python.org/pypi/flake8
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
 
+https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 https://en.wikipedia.org/wiki/Code_coverage
 https://martinfowler.com/bliki/TestCoverage.html
