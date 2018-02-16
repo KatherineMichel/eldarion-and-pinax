@@ -3,6 +3,15 @@
 <!--
 Eldarion website, conferences
 
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ | Pinax Project - YouTube - YouTube
+https://github.com/orgs/eldarion/teams/developers | Developers · Eldarion, Inc. Discussion
+
+https://thoughtstreams.io/ | ThoughtStreams — a micro-blog for every idea
+https://github.com/eldarion/thought-streams | thought-streams/tests.py at master · eldarion/thought-streams
+
+https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
+https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
+
 https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
 https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
 
@@ -65,6 +74,8 @@ Runtests
 Link to explemplary demos (that use each app) in READMEs
 Docs, documenting features
 
+https://www.npmjs.com/package/pinax-images-panel
+
 http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
 https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
 
@@ -73,6 +84,7 @@ https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py
 Inspired by Lincoln Loop "Using setup.py in Your (Django) Project" 
 https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 | Create setup.py by grahamu · Pull Request #56 · pinax/pinax-starter-projects
 
+Update contributor files
 https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
 -->
 
