@@ -3,6 +3,17 @@
 <!--
 Eldarion website, conferences
 
+https://github.com/deep-reader/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
+
+https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
+https://github.com/PerseusDL | PerseusDL
+https://twitter.com/PerseusDigLib
+https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
+https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
+
+http://capitains.org/ | CapiTainS
+https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
+
 Stripe
 https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
 https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
@@ -93,6 +104,9 @@ Runtests
 Link to explemplary demos (that use each app) in READMEs
 Docs, documenting features
 Tools used by Eldarion
+
+https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
+ttps://github.com/pinax/cloudspotting | pinax/cloudspotting: a starter project allowing you to create collections of cloud images, view other people’s collections, “like” a collection, etc.
 
 https://www.npmjs.com/package/pinax-images-panel
 
