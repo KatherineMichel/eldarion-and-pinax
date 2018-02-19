@@ -77,34 +77,35 @@ Work in Progress- Symposium
 Work in Progress- Contributors
 * [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
 
-Work in Progress- Pinax Releases
+Work in Progress- Pinax Demos
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
-* ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
 * [Patch Game GitHub](https://github.com/pinax/patch-game)
 
 Work in Progress- Documentation
 * [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
 * [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
 
+Work in Progress- Pinax Releases
+* ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
+* [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
+* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
+* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 )
+
 <!--
+https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
+
 Runtests
 Link to explemplary demos (that use each app) in READMEs
 Docs, documenting features
+Update contributor files
 Tools used by Eldarion
 
 https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
-ttps://github.com/pinax/cloudspotting | pinax/cloudspotting: a starter project allowing you to create collections of cloud images, view other people’s collections, “like” a collection, etc.
 
 https://www.npmjs.com/package/pinax-images-panel
 
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-
-Inspired by Lincoln Loop "Using setup.py in Your (Django) Project" 
-https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 | Create setup.py by grahamu · Pull Request #56 · pinax/pinax-starter-projects
-
-Update contributor files
-https://docs.python.org/3/library/glob.html#glob.glob | 11.7. glob — Unix style pathname pattern expansion — Python 3.6.4 documentation
+* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
 -->
 
 Eldarion
@@ -282,8 +283,6 @@ http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The P
 
 https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
 https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
-
-https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
 -->
 
 Example First-Timers Info
