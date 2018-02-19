@@ -70,14 +70,22 @@ https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to th
 http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
 -->
 
-Work in Progress
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-* [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
-* [Patch Game GitHub](https://github.com/pinax/patch-game)
+Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
+* [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
+
+Work in Progress- Contributors
 * [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
+
+Work in Progress- Pinax Releases
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
 * ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
+* [Patch Game GitHub](https://github.com/pinax/patch-game)
+
+Work in Progress- Documentation
+* [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
+* [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
 
 <!--
 Runtests
@@ -89,9 +97,6 @@ https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
 ttps://github.com/pinax/cloudspotting | pinax/cloudspotting: a starter project allowing you to create collections of cloud images, view other people’s collections, “like” a collection, etc.
 
 https://www.npmjs.com/package/pinax-images-panel
-
-http://pinaxproject.com/pinax/faq/ | FAQs - Pinax Documentation
-https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline
 
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 
@@ -253,8 +258,6 @@ https://www.kennethreitz.org/essays/pipenv-one-year-later-a-call-for-help | Pipe
 https://github.com/pypa/pipfile | pypa/pipfile
 https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management | The Future of Python Dependency Management // Speaker Deck
 
-
-https://pypi.python.org/pypi/flake8
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
 
