@@ -274,6 +274,37 @@ http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverag
 http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
 -->
 
+Typical Eldarion Blog Post Subjects
+* Eldarion Project Management
+* Eldarion DevOps
+* Eldarion services and product offerings, sales
+* Case studies
+* Eldarion donations to Pinax
+* Project and app upgrades
+* Project and app functionality tutorials and demos
+* Cloudspotting
+* React 
+* Year in Review
+* Conferences
+* Eldarion accolades
+* Sprints and other open-source initiatives
+* New hires
+
+Typical Pinax Blog Post Subjects
+* About Pinax starter projects and apps
+* Pinax starter project and app functionality tutorials and demos
+* Cloudspotting
+* Release announcements
+* Release management
+* Why and how to contribute to Pinax
+* Documentation
+* Why and how to use Slack
+* Other helpful info for contributors
+* Pinax developers
+* My first pull request series
+* Hangouts and Recaps
+* Conferences
+
 How to Contribute
 * [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
