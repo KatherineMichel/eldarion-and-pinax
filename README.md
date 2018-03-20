@@ -82,11 +82,6 @@ https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
 Work in Progress- Contributors
 * [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
 
-Work in Progress- Pinax Demos
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-* [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
-* [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
-
 Work in Progress- Documentation
 * [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
 * [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
@@ -97,12 +92,17 @@ Work in Progress- Pinax Releases
 * [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
 * [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 )
 
+Work in Progress- Pinax Demo Projects
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+* [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
+* [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
+
+Work in Progress- Screencasts
+
+Work in Progress- Decouple DUA
+* [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
+
 <!--
-Decouple DUA
-http://django-user-accounts.readthedocs.io/en/latest/ | django-user-accounts — django-user-accounts 2.0.3 documentation
-https://github.com/pinax/django-user-accounts | pinax/django-user-accounts: User accounts for Django
-
-
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
 
 Runtests
@@ -114,8 +114,6 @@ Tools used by Eldarion
 https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
 
 https://www.npmjs.com/package/pinax-images-panel
-
-* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
 -->
 
 Eldarion
