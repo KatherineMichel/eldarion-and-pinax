@@ -75,13 +75,17 @@ Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
 * [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
 
+<!--
+https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
+-->
+
 Work in Progress- Contributors
 * [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
 
 Work in Progress- Pinax Demos
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
-* [Patch Game GitHub](https://github.com/pinax/patch-game)
+* [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
 
 Work in Progress- Documentation
 * [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
@@ -94,6 +98,11 @@ Work in Progress- Pinax Releases
 * [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 )
 
 <!--
+Decouple DUA
+http://django-user-accounts.readthedocs.io/en/latest/ | django-user-accounts — django-user-accounts 2.0.3 documentation
+https://github.com/pinax/django-user-accounts | pinax/django-user-accounts: User accounts for Django
+
+
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
 
 Runtests
