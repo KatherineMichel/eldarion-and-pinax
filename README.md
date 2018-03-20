@@ -86,6 +86,10 @@ Work in Progress- Documentation
 * [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
 * [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
 
+Work in Progress- Improve Docs
+* [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
+* [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
+
 Work in Progress- Pinax Releases
 * ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
 * [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
@@ -98,6 +102,7 @@ Work in Progress- Pinax Demo Projects
 * [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
 
 Work in Progress- Screencasts
+* [Screencasts GitHub](https://github.com/pinax/screencasts)
 
 <!--
 https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
@@ -107,6 +112,7 @@ Work in Progress- Decouple DUA
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 
 <!--
+Onboarding
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
 
 Runtests
