@@ -99,6 +99,10 @@ Work in Progress- Pinax Demo Projects
 
 Work in Progress- Screencasts
 
+<!--
+https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
+-->
+
 Work in Progress- Decouple DUA
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 
@@ -110,8 +114,6 @@ Link to explemplary demos (that use each app) in READMEs
 Docs, documenting features
 Update contributor files
 Tools used by Eldarion
-
-https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
 
 https://www.npmjs.com/package/pinax-images-panel
 -->
@@ -350,11 +352,15 @@ Clients and Orgs
 * [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
 
 <!--
+https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
+https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
 https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
 https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
+
 https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
 
 https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
+https://github.com/scaife-viewer
 https://github.com/PerseusDL | PerseusDL
 https://twitter.com/PerseusDigLib
 https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
