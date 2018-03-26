@@ -258,32 +258,22 @@ Testing and CI
 * [Tox Read the Docs](https://tox.readthedocs.org)
 * [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
 * [Coverage Read the Docs](https://coverage.readthedocs.io) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 * [isort GitHub](https://github.com/timothycrosley/isort)
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 * [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
 
 <!--
-https://docs.python.org/3.7/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.7.0b1 documentation
-https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
-https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
-https://codecov.io/#features | Codecov
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
-
-https://docs.pipenv.org/ | Pipenv: Python Dev Workflow for Humans — pipenv 9.0.3 documentation
-https://pipenv.readthedocs.io/en/latest/advanced.html#managing-system-dependencies | Advanced Usage of Pipenv — pipenv 8.0.8 documentation
-https://www.kennethreitz.org/essays/pipenv-one-year-later-a-call-for-help | Pipenv: One Year Later & a Call for Help — Kenneth Reitz
-https://github.com/pypa/pipfile | pypa/pipfile
-https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management | The Future of Python Dependency Management // Speaker Deck
-
-
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
 
 https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 https://en.wikipedia.org/wiki/Code_coverage
 https://martinfowler.com/bliki/TestCoverage.html
+
+https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
+https://codecov.io/#features | Codecov
 
 https://www.reddit.com/r/Python/comments/7brkpn/how_we_maintain_high_levels_of_code_quality/ | How We Maintain High Levels of Code Quality : Python
 
