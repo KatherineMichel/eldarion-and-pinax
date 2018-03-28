@@ -1,6 +1,15 @@
 # Eldarion and Pinax
 
 <!--
+https://mail.python.org/pipermail/python-dev/2018-March/152348.html | [Python-Dev] Python 2.7 -- bugfix or security before EOL?
+https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
+https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
+https://www.python.org/dev/peps/pep-0394/ | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
+https://code.djangoproject.com/ticket/29250 | #29250 (Add 'django_version' context variable reference documentation for startapp and startproject) – Django
+
+http://initd.org/psycopg/articles/2018/02/08/psycopg-274-released/ | Psycopg 2.7.4 released | Psycopg
+
+
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
@@ -76,6 +85,8 @@ Work in Progress- Symposium
 * [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
 
 <!--
+https://il.pycon.org/2018/ | Pycon Israel 2018 - Save the dates: 4-6 May
+
 https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
 -->
 
@@ -250,6 +261,11 @@ Django, Kubernetes, React
 <!--
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
+
+https://github.com/paltman/trying-webpack | paltman/trying-webpack
+https://webpack.js.org/ | webpack
+http://browserify.org/ | Browserify
+https://github.com/webpack-contrib/copy-webpack-plugin | webpack-contrib/copy-webpack-plugin: Copy files and directories with webpack
 -->
 
 Testing and CI
@@ -366,6 +382,8 @@ https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plainte
 
 http://capitains.org/ | CapiTainS
 https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
+
+https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
 -->
 
 Pinax Developer Profiles
