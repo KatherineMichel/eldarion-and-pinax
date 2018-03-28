@@ -82,11 +82,9 @@ http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2
 
 Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
-* [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
+* [PyCon Israel GitHub](https://il.pycon.org/2018) and [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
 
 <!--
-https://il.pycon.org/2018/ | Pycon Israel 2018 - Save the dates: 4-6 May
-
 https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
 -->
 
@@ -105,7 +103,7 @@ Work in Progress- Pinax Releases
 * ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
 * [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
 * [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
-* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268 )
+* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
 
 Work in Progress- Pinax Demo Projects
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
@@ -261,11 +259,15 @@ Django, Kubernetes, React
 <!--
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
+-->
 
+Webpack Versus Browserify
+* [Webpack](https://webpack.js.org)
+* [Copy Webpack Plugin GitHub](https://github.com/webpack-contrib/copy-webpack-plugin)
+* [Browserify](http://browserify.org)
+
+<!--
 https://github.com/paltman/trying-webpack | paltman/trying-webpack
-https://webpack.js.org/ | webpack
-http://browserify.org/ | Browserify
-https://github.com/webpack-contrib/copy-webpack-plugin | webpack-contrib/copy-webpack-plugin: Copy files and directories with webpack
 -->
 
 Testing and CI
