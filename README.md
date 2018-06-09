@@ -68,10 +68,13 @@ Eldarion Year in Review blog posts
 
 http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
 
+https://www.slideshare.net/search/slideshow?searchfrom=header&q=pinax&ud=any&ft=all&lang=en&sort=
+
 https://www.slideshare.net/jtauber/how-to-contribute-to-pinax
 https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
 https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
 
+https://www.slideshare.net/pydanny/pinax-introduction
 https://www.slideshare.net/pydanny/pinax-tutorial-090909
 https://www.slideshare.net/pydanny/pinax-long-tutorial-slides | Pinax Long Tutorial Slides
 http://pydanny.blogspot.com/2010/ | pydanny: 2010
