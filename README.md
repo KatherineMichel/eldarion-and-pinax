@@ -1,28 +1,11 @@
 # Eldarion and Pinax
 
 <!--
-https://mail.python.org/pipermail/python-dev/2018-March/152348.html | [Python-Dev] Python 2.7 -- bugfix or security before EOL?
-https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
-https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
-https://www.python.org/dev/peps/pep-0394/ | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
-https://code.djangoproject.com/ticket/29250 | #29250 (Add 'django_version' context variable reference documentation for startapp and startproject) – Django
-
-http://initd.org/psycopg/articles/2018/02/08/psycopg-274-released/ | Psycopg 2.7.4 released | Psycopg
-
-
+Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
 https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
-
-
-Eldarion website, conferences
-
-https://github.com/deep-reader/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
-
-Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
-
-http://eldarion.com/blog/post/KijaLQaw/ | Getting Started With a Site: Your Waitinglist — Eldarion Blog
 
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 
@@ -31,11 +14,23 @@ https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a850
 
 http://theleanstartup.com/principles | The Lean Startup | Methodology
 
+https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
+https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
+https://www.python.org/dev/peps/pep-0394/ | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
+https://code.djangoproject.com/ticket/29250 | #29250 (Add 'django_version' context variable reference documentation for startapp and startproject) – Django
+
+http://initd.org/psycopg/articles/2018/02/08/psycopg-274-released/ | Psycopg 2.7.4 released | Psycopg
+
+
+
+Eldarion website, conferences
+
+Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
+
+http://eldarion.com/blog/post/KijaLQaw/ | Getting Started With a Site: Your Waitinglist — Eldarion Blog
 
 https://thoughtstreams.io/ | ThoughtStreams — a micro-blog for every idea
 https://github.com/eldarion/thought-streams | thought-streams/tests.py at master · eldarion/thought-streams
-
-https://unsplash.com/search/photos/road | 20+ Best Free Road Pictures on Unsplash
 
 
 Style Guide
@@ -62,6 +57,7 @@ but the solution is simple
 -->
 
 About Pinax and State of Pinax
+* [State of Pinax: DjangoCon 2009](https://www.slideshare.net/jtauber/state-of-pinax)
 
 <!--
 Eldarion Year in Review blog posts
@@ -206,21 +202,6 @@ Release Process
 * [Pinax Release Process](http://pinaxproject.com/pinax/release_process)
 * [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
-<!--
-Stripe
-https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
-https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
-
-https://github.com/pinax/pinax-theme-bootstrap/wiki/Roadmap-to-Semantic-Markup | Roadmap to Semantic Markup · pinax/pinax-theme-bootstrap Wiki
-https://templates.pinaxproject.com/ | Pinax Templates | pinax-project-zero
-https://github.com/pinax/pinax-templates/tree/master/pinax/templates/templates/pinax | pinax/pinax-templates
-
-http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
-http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic/ | Remarking pinax-theme-bootstrap To Be Semantic | The Pinax Project Blog
-
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
--->
-
 Tags and Releases
 * [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
 * [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
@@ -229,20 +210,19 @@ Tags and Releases
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
 -->
 
-Past Releases
+Release Blog Posts
+* [Release of Pinax 16.07 Blog Post](http://blog.pinaxproject.com/2016/08/15/release-pinax-1607)
+* [Pinax 16.04 Update Blog Post](http://blog.pinaxproject.com/2016/03/10/update-pinax-1604)
+* [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604)
+
+Past Release Plans
 * [Pinax 18.01 Plan](https://github.com/pinax/pinax/wiki/Pinax-18.01)
 * [Pinax 16.10 Plan](https://github.com/pinax/pinax/wiki/Pinax-16.10-Plan)
 * [Pinax 16.07](https://github.com/pinax/pinax/wiki/Pinax-16.07)
 * [Checklist for 16.04 candidate apps](https://github.com/pinax/pinax/issues/113)
-* [Pinax 16.04 Update Blog Post](http://blog.pinaxproject.com/2016/03/10/update-pinax-1604)
-* [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
 
 Proposal for Pinax Distribution Versioning
 * [Proposal for Pinax Distribution Versioning](https://github.com/pinax/pinax/issues/84)
-
-<!--
-http://blog.pinaxproject.com/2016/08/15/release-pinax-1607/ | Release of Pinax 16.07 | The Pinax Project Blog
--->
 
 Distribution
 * [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
@@ -256,6 +236,20 @@ https://github.com/pinax/pinax/blob/master/projects.json
 https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
 
 https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
+-->
+
+Pinax Templates and Semantic Markup
+* [Pinax Templates Site](https://templates.pinaxproject.com)
+* [Pinax Templates GitHub](https://github.com/pinax/pinax-templates)
+* [Remarking pinax-theme-bootstrap To Be Semantic Blog Post](http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic)
+* [Roadmap to Semantic Markup](https://github.com/pinax/pinax-theme-bootstrap/wiki/Roadmap-to-Semantic-Markup)
+
+<!--
+Stripe
+https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
+https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
+
+http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
 -->
 
 Django, Kubernetes, React
@@ -291,6 +285,9 @@ http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality | H
 http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
 http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
 -->
+
+Blog Photos
+* [Unsplash](https://unsplash.com)
 
 Typical Eldarion Blog Post Subjects
 * Eldarion Project Management
@@ -328,6 +325,8 @@ How to Contribute
 * [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
 
 <!--
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+
 http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
 
 https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
@@ -362,6 +361,7 @@ Clients and Orgs
 <!--
 https://github.com/deep-philology/DeepVocabulary
 https://github.com/deep-philology/DeepVocabulary/wiki/Overview
+https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
 
 https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
 https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
