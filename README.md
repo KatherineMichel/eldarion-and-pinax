@@ -68,9 +68,11 @@ Eldarion Year in Review blog posts
 
 http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
 
+https://www.slideshare.net/jtauber/how-to-contribute-to-pinax
 https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
 https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
 
+https://www.slideshare.net/pydanny/pinax-tutorial-090909
 https://www.slideshare.net/pydanny/pinax-long-tutorial-slides | Pinax Long Tutorial Slides
 http://pydanny.blogspot.com/2010/ | pydanny: 2010
 
@@ -78,6 +80,8 @@ https://2016.djangocon.us/schedule/presentation/45/ | Presentation: Building JSO
 https://speakerdeck.com/brosner/pinax | Building JSON APIs with Django / Pinax // Speaker Deck
 https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to the JSON:API specification
 http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
+
+https://groups.google.com/forum/#!forum/pinax-core-dev
 -->
 
 Work in Progress- Symposium
@@ -182,8 +186,6 @@ Warehouse Profiles
 * [Brian Rosner](https://pypi.org/user/brosner)
 
 <!--
-https://github.com/pinax/pinax-cli | pinax/pinax-cli: a tool for easily instantiating Pinax starter projects (django templates)
-
 Packages
 https://pypi.org/project/pinax-likes | pinax-likes · Warehouse (PyPI)
 https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python Package Index
@@ -232,11 +234,15 @@ Past Releases
 * [Pinax 16.04 Update Blog Post](http://blog.pinaxproject.com/2016/03/10/update-pinax-1604)
 * [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
 
+Proposal for Pinax Distribution Versioning
+* [Proposal for Pinax Distribution Versioning](https://github.com/pinax/pinax/issues/84)
+
 <!--
 http://blog.pinaxproject.com/2016/08/15/release-pinax-1607/ | Release of Pinax 16.07 | The Pinax Project Blog
-
-https://github.com/pinax/pinax/issues/84#issuecomment-189625770 | Proposal for Pinax Distribution Versioning · Issue #84 · pinax/pinax
 -->
+
+Distribution
+* [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
 
 Distribution Scripts
 
