@@ -14,11 +14,6 @@ https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a850
 
 http://theleanstartup.com/principles | The Lean Startup | Methodology
 
-https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
-https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
-https://www.python.org/dev/peps/pep-0394/ | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
-https://code.djangoproject.com/ticket/29250 | #29250 (Add 'django_version' context variable reference documentation for startapp and startproject) – Django
-
 http://initd.org/psycopg/articles/2018/02/08/psycopg-274-released/ | Psycopg 2.7.4 released | Psycopg
 
 
@@ -33,6 +28,8 @@ https://github.com/eldarion/thought-streams | thought-streams/tests.py at master
 
 Style Guide
 
+
+pipenv run detox
 
 Location of site-packages
 pipenv --venv
@@ -256,6 +253,8 @@ Pinax Templates and Semantic Markup
 
 <!--
 https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
+
+https://github.com/pinax/pinax-stripe/releases/tag/v4.0.0 | Release 4.0.0 · pinax/pinax-stripe
 
 Stripe
 https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
