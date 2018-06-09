@@ -25,8 +25,6 @@ http://initd.org/psycopg/articles/2018/02/08/psycopg-274-released/ | Psycopg 2.7
 
 Eldarion website, conferences
 
-Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
-
 http://eldarion.com/blog/post/KijaLQaw/ | Getting Started With a Site: Your Waitinglist — Eldarion Blog
 
 https://thoughtstreams.io/ | ThoughtStreams — a micro-blog for every idea
@@ -82,6 +80,10 @@ http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2
 
 https://groups.google.com/forum/#!forum/pinax-core-dev
 https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI
+https://groups.google.com/forum/#!topic/pinax-business/OOhLDYEYv9c
+
+https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI | list of sites using pinax - Google Groups
+Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
 -->
 
 Work in Progress- Symposium
