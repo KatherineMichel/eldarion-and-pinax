@@ -114,8 +114,6 @@ Work in Progress- Screencasts
 * [Screencasts GitHub](https://github.com/pinax/screencasts)
 
 <!--
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos
-
 https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
 -->
 
@@ -270,29 +268,14 @@ Webpack Versus Browserify
 https://github.com/paltman/trying-webpack | paltman/trying-webpack
 -->
 
-Testing and CI
+CI
 * [CircleCI](https://circleci.com)
 * [Codecov](https://codecov.io)
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Coverage Read the Docs](https://coverage.readthedocs.io) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [isort GitHub](https://github.com/timothycrosley/isort)
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+
+Testing
+* See Python and Django Notes
 
 <!--
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-
-https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
-https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-https://en.wikipedia.org/wiki/Code_coverage
-https://martinfowler.com/bliki/TestCoverage.html
-
-https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
-https://codecov.io/#features | Codecov
-
 https://www.reddit.com/r/Python/comments/7brkpn/how_we_maintain_high_levels_of_code_quality/ | How We Maintain High Levels of Code Quality : Python
 
 http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality | How We Maintain High Levels of Code Quality — Eldarion Blog
@@ -368,6 +351,9 @@ Clients and Orgs
 * [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
 
 <!--
+https://github.com/deep-philology/DeepVocabulary
+https://github.com/deep-philology/DeepVocabulary/wiki/Overview
+
 https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
 https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
 https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
