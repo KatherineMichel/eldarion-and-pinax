@@ -238,6 +238,9 @@ https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributi
 https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
 
+Static Build Process
+* ["Simplifying the Static Build Process in Django Starter Projects" Blog Post](http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects)
+
 Pinax Templates and Semantic Markup
 * [Pinax Templates Site](https://templates.pinaxproject.com)
 * [Pinax Templates GitHub](https://github.com/pinax/pinax-templates)
@@ -248,8 +251,6 @@ Pinax Templates and Semantic Markup
 Stripe
 https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
 https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
-
-http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
 -->
 
 Django, Kubernetes, React
@@ -278,13 +279,10 @@ CI
 Testing
 * See Python and Django Notes
 
-<!--
-https://www.reddit.com/r/Python/comments/7brkpn/how_we_maintain_high_levels_of_code_quality/ | How We Maintain High Levels of Code Quality : Python
-
-http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality | How We Maintain High Levels of Code Quality — Eldarion Blog
-http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
-http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel/ | How to Test Against Multiple Python Versions in Parallel | The Pinax Project Blog
--->
+Testing- Blog Posts
+* ["How We Maintain High Levels of Code Quality" Blog Post](http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality)
+* ["5 Reasons You Should Care about Code Coverage" Blog Post](http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage)
+* ["How to Test Against Multiple Python Versions in Parallel" Blog Post](http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel)
 
 Blog Photos
 * [Unsplash](https://unsplash.com)
