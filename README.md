@@ -81,6 +81,7 @@ https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to th
 http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
 
 https://groups.google.com/forum/#!forum/pinax-core-dev
+https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI
 -->
 
 Work in Progress- Symposium
@@ -165,6 +166,10 @@ People
 Site Care
 * [Eldarion Site Care and Maintenance](http://eldarion.com/consulting/django-site-care)
 
+<!--
+https://www.youtube.com/watch?v=q6-zh2ZT9HE | How Eldarion Cloud Boosts Productivity of Development Teams - YouTube
+-->
+
 Dedicated Python Hosting
 * [Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes (Formerly Gondor)](http://eldarion.cloud)
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
@@ -248,6 +253,8 @@ Pinax Templates and Semantic Markup
 * [Roadmap to Semantic Markup](https://github.com/pinax/pinax-theme-bootstrap/wiki/Roadmap-to-Semantic-Markup)
 
 <!--
+https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
+
 Stripe
 https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
 https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
