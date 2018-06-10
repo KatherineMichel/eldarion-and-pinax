@@ -1,6 +1,10 @@
 # Eldarion and Pinax
 
 <!--
+https://github.com/substack/node-mkdirp
+https://www.npmjs.com/package/rimraf
+https://github.com/isaacs/rimraf
+
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
