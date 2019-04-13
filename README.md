@@ -1,6 +1,15 @@
 # Eldarion and Pinax
 
 <!--
+https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
+https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
+
+https://github.com/pinax/pinax/wiki/Pinax-18.04-Proposed-Process | Pinax 18.04 Proposed Process · pinax/pinax Wiki
+https://github.com/pinax/pinax/issues/146 | drop support for python 2.7.x and django 1.11.x · Issue #146 · pinax/pinax
+https://www.google.com/search?q=black+double+quotes&oq=black+double+quotes&aqs=chrome..69i57j0l2.2971j1j7&sourceid=chrome&ie=UTF-8 | black double quotes - Google Search
+https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
+
+
 https://github.com/substack/node-mkdirp
 https://www.npmjs.com/package/rimraf
 https://github.com/isaacs/rimraf
