@@ -1,7 +1,19 @@
 # Eldarion and Pinax
 
 <!--
+JavaScript and Node
+https://github.com/substack/node-mkdirp
+https://www.npmjs.com/package/rimraf
+https://github.com/isaacs/rimraf
+https://webpack.js.org/concepts/loaders/ | loaders
 https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
+
+Configs
+https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
+https://github.com/django-compressor/django-appconf/blob/develop/README.rst | django-appconf/README.rst at develop · django-compressor/django-appconf
+https://pypi.org/project/django-appconf/1.0.2/ | django-appconf · PyPI
+https://pypi.org/project/pytz/ | pytz · PyPI
+
 https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
 
 https://github.com/pinax/pinax/wiki/Pinax-18.04-Proposed-Process | Pinax 18.04 Proposed Process · pinax/pinax Wiki
@@ -9,10 +21,6 @@ https://github.com/pinax/pinax/issues/146 | drop support for python 2.7.x and dj
 https://www.google.com/search?q=black+double+quotes&oq=black+double+quotes&aqs=chrome..69i57j0l2.2971j1j7&sourceid=chrome&ie=UTF-8 | black double quotes - Google Search
 https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
 
-
-https://github.com/substack/node-mkdirp
-https://www.npmjs.com/package/rimraf
-https://github.com/isaacs/rimraf
 
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
