@@ -1,64 +1,13 @@
 # Eldarion and Pinax
 
 <!--
-JavaScript and Node
-https://github.com/substack/node-mkdirp
-https://www.npmjs.com/package/rimraf
-https://github.com/isaacs/rimraf
-https://webpack.js.org/concepts/loaders/ | loaders
-https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
-
-Configs
-https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
-https://github.com/django-compressor/django-appconf/blob/develop/README.rst | django-appconf/README.rst at develop · django-compressor/django-appconf
-https://pypi.org/project/django-appconf/1.0.2/ | django-appconf · PyPI
-https://pypi.org/project/pytz/ | pytz · PyPI
-
-https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
-
-https://github.com/pinax/pinax/wiki/Pinax-18.04-Proposed-Process | Pinax 18.04 Proposed Process · pinax/pinax Wiki
-https://github.com/pinax/pinax/issues/146 | drop support for python 2.7.x and django 1.11.x · Issue #146 · pinax/pinax
-https://www.google.com/search?q=black+double+quotes&oq=black+double+quotes&aqs=chrome..69i57j0l2.2971j1j7&sourceid=chrome&ie=UTF-8 | black double quotes - Google Search
-https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
-
-
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
-https://github.com/pinax/pinax-teams/tree/fixing-render-to-string-issue | pinax/pinax-teams at fixing-render-to-string-issue
-
-http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-
-Business Model Canvas
-https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a8509296e3cd543ee7c6881cada7082376d4dfdf4eac40e849490c0dba2d178b.svg | Artboard 101
-
-http://theleanstartup.com/principles | The Lean Startup | Methodology
-
-http://initd.org/psycopg/articles/2018/02/08/psycopg-274-released/ | Psycopg 2.7.4 released | Psycopg
-
-
-
 Eldarion website, conferences
 
-http://eldarion.com/blog/post/KijaLQaw/ | Getting Started With a Site: Your Waitinglist — Eldarion Blog
-
-https://thoughtstreams.io/ | ThoughtStreams — a micro-blog for every idea
-https://github.com/eldarion/thought-streams | thought-streams/tests.py at master · eldarion/thought-streams
-
-
 Style Guide
-
-
-pipenv run detox
-
-Location of site-packages
-pipenv --venv
-
-Then browse to:
-lib/python3.6/site-packages
-
-the way you know if `account` should be added to `known_third_party` is by setup.py “install_requires”. If DUA is in there then “account” should be in 3rd party. Same for other required apps. Check settings.py for the actual app name that needs to be in 3rd party… i.e. “django-user-accounts” app name is “account”.
 
 ```[testenv:checkqa]
 commands =
@@ -70,6 +19,17 @@ Run these separately on command line before invoking `detox` in order to catch i
 `isort --recursive --check-only --diff pinax -sp tox.ini` isn’t so happy
 but the solution is simple 
 `isort --recursive pinax -sp tox.ini`
+
+the way you know if `account` should be added to `known_third_party` is by setup.py “install_requires”. If DUA is in there then “account” should be in 3rd party. Same for other required apps. Check settings.py for the actual app name that needs to be in 3rd party… i.e. “django-user-accounts” app name is “account”.
+
+
+pipenv run detox
+
+Location of site-packages
+pipenv --venv
+
+Then browse to:
+lib/python3.6/site-packages
 -->
 
 About Pinax and State of Pinax
@@ -104,6 +64,20 @@ https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI | list of sites 
 Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
 -->
 
+Work in Progress- New Release
+* [Pinax 18.04 Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-18.04-Proposed-Process)
+* [drop support for python 2.7.x and django 1.11.x (Issue #146)](https://github.com/pinax/pinax/issues/146)
+
+<!--
+Add black- double quotes
+-->
+
+Work in Progress- Pinax Releases
+* ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
+* [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
+* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
+* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
+
 Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
 * [PyCon Israel GitHub](https://il.pycon.org/2018) and [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
@@ -122,12 +96,6 @@ Work in Progress- Documentation
 Work in Progress- Improve Docs
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 * [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
-
-Work in Progress- Pinax Releases
-* ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
-* [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
-* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
-* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
 
 Work in Progress- Pinax Demo Projects
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
@@ -232,6 +200,7 @@ Tags and Releases
 * [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
 
 <!--
+https://help.github.com/en/articles/creating-releases
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
 -->
 
@@ -299,7 +268,17 @@ Webpack Versus Browserify
 
 <!--
 https://github.com/paltman/trying-webpack | paltman/trying-webpack
+
+JavaScript and Node
+https://github.com/substack/node-mkdirp
+https://www.npmjs.com/package/rimraf
+https://github.com/isaacs/rimraf
+https://webpack.js.org/concepts/loaders/ | loaders
+https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
 -->
+
+Eldarion- Package Tools
+* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
 
 Eldarion- Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
@@ -308,14 +287,20 @@ Eldarion- Testing Tools
 * [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
+
+<!--
+https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
+
+https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
+
+pytz
+https://pypi.org/project/pytz/ | pytz · PyPI
+-->
 
 Eldarion- Continuous Integration and Delivery
 * [CircleCI](https://circleci.com)
 * [Codecov](https://codecov.io)
-
-Testing
-* See Python and Django Notes
 
 Testing- Blog Posts
 * ["How We Maintain High Levels of Code Quality" Blog Post](http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality)
