@@ -4,32 +4,6 @@
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
-
-Eldarion website, conferences
-
-Style Guide
-
-```[testenv:checkqa]
-commands =
-    flake8 pinax
-    isort --recursive --check-only --diff pinax -sp tox.ini
-```
-Run these separately on command line before invoking `detox` in order to catch issues.
- `flake8 pinax` looks good
-`isort --recursive --check-only --diff pinax -sp tox.ini` isn’t so happy
-but the solution is simple 
-`isort --recursive pinax -sp tox.ini`
-
-the way you know if `account` should be added to `known_third_party` is by setup.py “install_requires”. If DUA is in there then “account” should be in 3rd party. Same for other required apps. Check settings.py for the actual app name that needs to be in 3rd party… i.e. “django-user-accounts” app name is “account”.
-
-
-pipenv run detox
-
-Location of site-packages
-pipenv --venv
-
-Then browse to:
-lib/python3.6/site-packages
 -->
 
 About Pinax and State of Pinax
@@ -67,10 +41,6 @@ Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/m
 Work in Progress- New Release
 * [Pinax 18.04 Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-18.04-Proposed-Process)
 * [drop support for python 2.7.x and django 1.11.x (Issue #146)](https://github.com/pinax/pinax/issues/146)
-
-<!--
-Add black- double quotes
--->
 
 Work in Progress- Pinax Releases
 * ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
@@ -378,31 +348,6 @@ Triaging Labels
 Clients and Orgs
 * [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
 * [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
-
-<!--
-https://github.com/deep-philology/DeepVocabulary
-https://github.com/deep-philology/DeepVocabulary/wiki/Overview
-https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
-
-https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
-https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
-https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
-https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
-
-https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
-
-https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
-https://github.com/scaife-viewer
-https://github.com/PerseusDL | PerseusDL
-https://twitter.com/PerseusDigLib
-https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
-https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
-
-http://capitains.org/ | CapiTainS
-https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
-
-https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
--->
 
 Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
