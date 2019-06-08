@@ -5,6 +5,9 @@ Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
+https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
+https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposion 0.5dev documentation
+
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
 
 https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
