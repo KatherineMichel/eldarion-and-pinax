@@ -4,6 +4,12 @@
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
+
+https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
+
+https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
+https://github.com/eldarion/scaife-skeleton/pull/38 | WIP: Packaging by paltman · Pull Request #38 · eldarion/scaife-skeleton
+https://github.com/eldarion/scaife-skeleton | eldarion/scaife-skeleton: a layout component library for building Scaife Readers
 -->
 
 About Pinax and State of Pinax
