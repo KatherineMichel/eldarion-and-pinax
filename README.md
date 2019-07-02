@@ -5,6 +5,15 @@ Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
+https://codecov.io/gh/pinax | Team ⋅ pinax
+
+Pinax Related Packages
+https://pypi.org/project/django-friendship/ | django-friendship · PyPI
+https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
+https://pypi.org/project/Pillow/ | Pillow · PyPI
+
+https://pypi.org/project/six/ | six · PyPI
+
 https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
 https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposion 0.5dev documentation
 
