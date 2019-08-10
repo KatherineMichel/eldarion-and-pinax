@@ -1,27 +1,61 @@
 # Eldarion and Pinax
 
 <!--
+Michael
+https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
+https://mherman.org/about | About Me
+https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
+https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
+https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
+https://realpython.com/ | Python Tutorials – Real Python
+https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
+https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
+
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
 https://codecov.io/gh/pinax | Team ⋅ pinax
 
-Pinax Related Packages
-https://pypi.org/project/django-friendship/ | django-friendship · PyPI
-https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
-https://pypi.org/project/Pillow/ | Pillow · PyPI
-
-https://pypi.org/project/six/ | six · PyPI
-
 https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
+https://github.com/pinax/symposion/tree/master/docs | symposion/docs at master · pinax/symposion
+Symposion Proposals App
 https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposion 0.5dev documentation
+http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
+https://web.archive.org/web/20170610082834/http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
 
-https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
+Hooksets
+https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
 
-https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
-https://github.com/eldarion/scaife-skeleton/pull/38 | WIP: Packaging by paltman · Pull Request #38 · eldarion/scaife-skeleton
+PyCon Israel
+https://github.com/eldarion/pycon-israel | eldarion/pycon-israel: updates to Symposion for PyCon Israel
+
+Scaife
+https://github.com/eldarion/scaife-skeleton/tree/master/src | scaife-skeleton/src at master · eldarion/scaife-skeleton
+https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki · GitHub
+https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
+https://www.dh.uni-leipzig.de/wo/sunoikisisdc/ | SunoikisisDC | Digital Humanities
+https://www.youtube.com/watch?v=NFiNYEDxr-0&feature=youtu.be | (1) SunoikisisDC Summer 2018 - Common Session 3 - YouTube
+https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki
+https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
+
+https://twitter.com/jtauber/status/1100952669760430081 | James Tauber on Twitter: "You should see the new Skeleton stuff we've been doing for Scaife! And we'll be at parity with DeepReader soon but with the "Fenway" stuff implemented.… https://t.co/GzndJAsQle"
+
+https://prometheus.io/ | Prometheus - Monitoring system & time series database
+http://www.perseus.tufts.edu/hopper/ | Perseus Digital Library
+
+https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
+https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
+
+https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
+https://github.com/scaife-viewer/scaife-background-update | scaife-viewer/scaife-background-update
+https://github.com/scaife-viewer/readhomer/issues/13 | (1) sibling extension (e.g. click + above or below lines to load more lines · Issue #13 · scaife-viewer/readhomer
+
+https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
 https://github.com/eldarion/scaife-skeleton | eldarion/scaife-skeleton: a layout component library for building Scaife Readers
+https://github.com/eldarion/scaife-skeleton/pull/38 | WIP: Packaging by paltman · Pull Request #38 · eldarion/scaife-skeleton
+https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
+https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
 -->
 
 About Pinax and State of Pinax
@@ -101,6 +135,8 @@ Work in Progress- Decouple DUA
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 
 <!--
+https://django-user-accounts.readthedocs.io/en/latest/faq.html#what-is-the-difference-between-django-user-accounts-and-django-contrib-auth | FAQ — django-user-accounts 2.0.3 documentation
+
 Onboarding
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
 
@@ -188,6 +224,7 @@ Tags and Releases
 * [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
 
 <!--
+https://help.github.com/en/articles/about-milestones | About milestones - GitHub Help
 https://help.github.com/en/articles/creating-releases
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
 -->
@@ -267,6 +304,16 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 
 Eldarion- Package Tools
 * [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
+
+<!--
+https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
+
+Pinax Related Packages
+https://pypi.org/project/django-friendship/ | django-friendship · PyPI
+https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
+https://pypi.org/project/Pillow/ | Pillow · PyPI
+https://pypi.org/project/six/ | six · PyPI
+-->
 
 Eldarion- Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
