@@ -5,7 +5,23 @@ Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
+Tools used by Eldarion
+
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
+
+Watch- Pinax Hangout
+https://www.youtube.com/watch?v=iun7y4hz0gg | Pinax Hangout September 2015: django-user-accounts - YouTube
+
+Pinax Hangouts
+https://plus.google.com/115295556556577946862/posts
+http://blog.pinaxproject.com/2016/04/19/quick-slack-guide/
+http://blog.pinaxproject.com/2015/06/09/how-we-built-blog/
+https://www.youtube.com/watch?v=SCGrw1eTRhU
+https://plus.google.com/events/c6js77tke600p4ohsablct0bp5o
+http://blog.pinaxproject.com/2015/10/12/recap-september-pinax-hangout/
+http://blog.pinaxproject.com/2015/11/25/recap-november-pinax-hangout/
+http://blog.pinaxproject.com/2016/01/27/recap-january-pinax-hangout/
+http://blog.pinaxproject.com/2016/02/09/pinax-hangout-february-2016/
 
 http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
 
@@ -113,11 +129,7 @@ http://pinax.hotcluboffrance.com/profiles/jtauber/
 
 Work in Progress- New Release
 * [Pinax 19.xx Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-19.xx)
-
-<!--
-Historical release links
-https://github.com/pinax/pinax/wiki/Historical-Release-Links
--->
+* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
 
 Work in Progress- Pinax Releases
 * ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
@@ -155,17 +167,22 @@ Work in Progress- Improve Docs
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 * [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
 
+<!--
+https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
+
+https://github.com/pinax/pinax-stripe/releases/tag/v4.0.0 | Release 4.0.0 · pinax/pinax-stripe
+
+Stripe
+https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
+https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
+-->
+
 Work in Progress- Pinax Demo Projects
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-* [Cloudspotting 2 GitHub](https://github.com/pinax/cloudspotting2)
 * [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
 
 Work in Progress- Screencasts
 * [Screencasts GitHub](https://github.com/pinax/screencasts)
-
-<!--
-https://www.youtube.com/watch?v=VlwfpzMVpRA | Cloudspotting Demo - YouTube
--->
 
 Work in Progress- Decouple DUA
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
@@ -175,12 +192,6 @@ https://django-user-accounts.readthedocs.io/en/latest/faq.html#what-is-the-diffe
 
 Onboarding
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
-
-Runtests
-Link to explemplary demos (that use each app) in READMEs
-Docs, documenting features
-Update contributor files
-Tools used by Eldarion
 
 https://www.npmjs.com/package/pinax-images-panel
 -->
@@ -198,6 +209,7 @@ https://github.com/orgs/eldarion/teams/developers | Developers · Eldarion, Inc.
 
 Pinax
 * [Pinax](http://pinaxproject.com) and [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
+* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
 * [Pinax Wikipedia](https://en.wikipedia.org/wiki/Pinax)
 * [Pinax Twitter](https://twitter.com/pinaxproject)
 * [Pinax Blog](http://blog.pinaxproject.com) and [Pinax Medium](https://medium.com/pinax)
@@ -247,16 +259,12 @@ https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python
 https://pypi.python.org/pypi/pinax-documents | pinax-documents 1.0.0 : Python Package Index
 -->
 
-Wiki
-* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
-
 Tags and Releases
+* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
 * [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
 * [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
 
 <!--
-https://help.github.com/en/articles/about-milestones | About milestones - GitHub Help
-https://help.github.com/en/articles/creating-releases
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
 -->
 
@@ -279,22 +287,14 @@ https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-c
 https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
 
-<!--
-https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
-
-https://github.com/pinax/pinax-stripe/releases/tag/v4.0.0 | Release 4.0.0 · pinax/pinax-stripe
-
-Stripe
-https://www.reddit.com/r/django/comments/7do0uc/pinaxstripe_400_released_stripe_connect_support/ | pinax-stripe 4.0.0 Released - Stripe Connect support lands : django
-https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
--->
-
-Django, Kubernetes, React
-* [Django](https://www.djangoproject.com)
+Kubernetes
 * [Kubernetes](https://kubernetes.io)
-* [React](https://facebook.github.io/react)
 
 <!--
+https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
+https://vuejs.org/ | Vue.js
+https://www.browsersync.io/ | Browsersync - Time-saving synchronised browser testing
+
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 -->
@@ -329,6 +329,12 @@ https://pypi.org/project/django-friendship/ | django-friendship · PyPI
 https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
 https://pypi.org/project/Pillow/ | Pillow · PyPI
 https://pypi.org/project/six/ | six · PyPI
+
+https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
+https://pypi.org/simple/markdown/ | Links for Markdown
+https://pypi.org/simple/mock/ | Links for mock
+https://pypi.org/project/required/ | required · PyPI
+https://pypi.org/project/certifi/ | certifi · PyPI
 -->
 
 Eldarion- Testing Tools
@@ -357,6 +363,7 @@ Testing- Blog Posts
 * ["How We Maintain High Levels of Code Quality" Blog Post](http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality)
 * ["5 Reasons You Should Care about Code Coverage" Blog Post](http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage)
 * ["How to Test Against Multiple Python Versions in Parallel" Blog Post](http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel)
+* ["How We Work Continuous Integration" Blog Post](https://eldarion.com/blog/2014/06/03/how-we-work-continuous-integration/)
 
 Blog Photos
 * [Unsplash](https://unsplash.com)
