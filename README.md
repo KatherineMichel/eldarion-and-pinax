@@ -20,6 +20,24 @@ Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
+https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
+https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
+https://github.com/pinax/pinax/blob/master/distributions.json
+https://github.com/pinax/pinax/blob/master/projects.json
+https://github.com/pinax/pinax/tree/adding-npm-guidance
+https://github.com/pinax/pinax/wiki/Upgrading-app-for-Django-v2.0
+
+Pinax Checker
+https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-checkers/.pylintrc at master · pinax-archives/pinax-checkers
+
+https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
+
+https://pypi.org/project/Pinax/ | Pinax · PyPI
+https://djangopackages.org/search/?q=pinax | Django Packages : Search
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos | Pinax Project - YouTube - YouTube
+
+http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
+
 https://codecov.io/gh/pinax | Team ⋅ pinax
 
 Hooksets
@@ -27,6 +45,14 @@ https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Se
 -->
 
 <!--
+James
+https://jktauber.com/2017/05/31/modelling-derivational-morphology/ | Modelling Derivational Morphology | J. K. Tauber
+Eldarion
+https://jktauber.com/2018/03/05/tour-greek-morphology-part-20/ | A Tour of Greek Morphology: Part 20 | J. K. Tauber
+Digital Tolkien
+https://digitaltolkien.com/welcome-to-digital-tolkien/ | Welcome to Digital Tolkien | Digital Tolkien
+https://buttondown.email/jtauber | Journeyman of Some | Buttondown
+
 https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
 https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
 https://github.com/deep-philology/DeepVocabulary/wiki/Overview
