@@ -1,40 +1,11 @@
 # Eldarion and Pinax
 
 <!--
-Pinax History
-https://www.ericholscher.com/blog/2008/sep/18/getting-started-pinax/ | Getting started with Pinax — Eric Holscher - Surfing in Kansas
-https://twitter.com/jtauber/status/1011298082724745218 | James Tauber on Twitter: "Pinax is the open source project I started 10 years ago. This is a great way to learn more about it...… "
-http://pinax.hotcluboffrance.com/profiles/jtauber/
-
-Michael
-https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
-https://mherman.org/about | About Me
-https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
-https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
-https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
-https://realpython.com/ | Python Tutorials – Real Python
-https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
-https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
-
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
-https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
-https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
-https://github.com/pinax/pinax/blob/master/distributions.json
-https://github.com/pinax/pinax/blob/master/projects.json
-https://github.com/pinax/pinax/tree/adding-npm-guidance
-https://github.com/pinax/pinax/wiki/Upgrading-app-for-Django-v2.0
-
-Pinax Checker
-https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-checkers/.pylintrc at master · pinax-archives/pinax-checkers
-
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
-
-https://pypi.org/project/Pinax/ | Pinax · PyPI
-https://djangopackages.org/search/?q=pinax | Django Packages : Search
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos | Pinax Project - YouTube - YouTube
 
 http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
 
@@ -133,17 +104,30 @@ https://groups.google.com/forum/#!topic/pinax-business/OOhLDYEYv9c
 
 https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI | list of sites using pinax - Google Groups
 Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
+
+Pinax History
+https://www.ericholscher.com/blog/2008/sep/18/getting-started-pinax/ | Getting started with Pinax — Eric Holscher - Surfing in Kansas
+https://twitter.com/jtauber/status/1011298082724745218 | James Tauber on Twitter: "Pinax is the open source project I started 10 years ago. This is a great way to learn more about it...… "
+http://pinax.hotcluboffrance.com/profiles/jtauber/
 -->
 
 Work in Progress- New Release
-* [Pinax 18.04 Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-18.04-Proposed-Process)
-* [drop support for python 2.7.x and django 1.11.x (Issue #146)](https://github.com/pinax/pinax/issues/146)
+* [Pinax 19.xx Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-19.xx)
+
+<!--
+Historical release links
+https://github.com/pinax/pinax/wiki/Historical-Release-Links
+-->
 
 Work in Progress- Pinax Releases
 * ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
 * [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
 * [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
 * [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
+
+<!--
+https://circleci.com/blog/deploying-documentation-to-github-pages-with-continuous-integration/ | Deploying documentation to GitHub Pages with continuous integration - CircleCI
+-->
 
 Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
@@ -226,10 +210,7 @@ People
 * [James Tauber](http://jtauber.com) and [J.K. Tauber](https://jktauber.com)
 * [James Tauber GitHub](https://github.com/jtauber)
 * [Patrick Altman](http://paltman.com), [Patrick Altman Twitter](https://twitter.com/paltman), and [Patrick Altman CodePen](https://codepen.io/paltman)
-
-<!--
-https://mherman.org/about | About Me
--->
+* [Michael Herman](https://mherman.org/) 
 
 Site Care
 * [Eldarion Site Care and Maintenance](http://eldarion.com/consulting/django-site-care)
@@ -251,7 +232,9 @@ http://eldarion-gondor.github.io/docs/#how-tos | Eldarion Cloud Documentation
 
 Pinax Packages
 * [Warehouse Pinax Search](https://pypi.org/search/?q=pinax)
+* [Pinax Warehouse Account](https://pypi.org/project/Pinax/)
 * [PyPi Pinax Search](https://pypi.python.org/pypi?%3Aaction=search&term=pinax&submit=search)
+* [Django Packages Pinax Search](https://djangopackages.org/search/?q=pinax)
 
 Warehouse Profiles
 * [Patrick Altman](https://pypi.org/user/paltman)
@@ -264,16 +247,8 @@ https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python
 https://pypi.python.org/pypi/pinax-documents | pinax-documents 1.0.0 : Python Package Index
 -->
 
-Current Release
+Wiki
 * [Pinax Wiki](https://github.com/pinax/pinax/wiki)
-* ["Upgrading app for Django v2.0"](https://github.com/pinax/pinax/wiki/Upgrading-app-for-Django-v2.0)
-* ["Converting to CircleCi and Codecov"](https://github.com/pinax/pinax/wiki/Converting-to-CircleCi-and-Codecov)
-* [Standardizing READMEs](https://github.com/pinax/pinax/wiki/Standardizing-READMEs)
-
-Release Process
-* [Pinax App Release Process](https://github.com/pinax/pinax/wiki/App-Release-Process)
-* [Pinax Release Process](http://pinaxproject.com/pinax/release_process)
-* [Pinax How-To Release a Starter Project](http://pinaxproject.com/pinax/how-tos/release-starter-project)
 
 Tags and Releases
 * [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
@@ -285,42 +260,24 @@ https://help.github.com/en/articles/creating-releases
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
 -->
 
-Release Blog Posts
-* [Release of Pinax 16.07 Blog Post](http://blog.pinaxproject.com/2016/08/15/release-pinax-1607)
-* [Pinax 16.04 Update Blog Post](http://blog.pinaxproject.com/2016/03/10/update-pinax-1604)
-* [Pinax 16.04 Blog Post](http://blog.pinaxproject.com/2016/02/01/pinax-1604)
-
-Past Release Plans
-* [Pinax 18.01 Plan](https://github.com/pinax/pinax/wiki/Pinax-18.01)
-* [Pinax 16.10 Plan](https://github.com/pinax/pinax/wiki/Pinax-16.10-Plan)
-* [Pinax 16.07](https://github.com/pinax/pinax/wiki/Pinax-16.07)
-* [Checklist for 16.04 candidate apps](https://github.com/pinax/pinax/issues/113)
-
-Proposal for Pinax Distribution Versioning
-* [Proposal for Pinax Distribution Versioning](https://github.com/pinax/pinax/issues/84)
-
 Distribution
 * [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
 
 Distribution Scripts
 
 <!--
+Starter project explainer
+https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
+
 Pinax Release Script
-https://github.com/pinax/pinax/blob/master/check.py | pinax/check.py at master · pinax/pinax
 https://github.com/pinax/pinax/blob/master/projects.json
 https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
 
+Pinax Checker
+https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-checkers/.pylintrc at master · pinax-archives/pinax-checkers
+
 https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
-
-Static Build Process
-* ["Simplifying the Static Build Process in Django Starter Projects" Blog Post](http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects)
-
-Pinax Templates and Semantic Markup
-* [Pinax Templates Site](https://templates.pinaxproject.com)
-* [Pinax Templates GitHub](https://github.com/pinax/pinax-templates)
-* [Remarking pinax-theme-bootstrap To Be Semantic Blog Post](http://blog.pinaxproject.com/2017/09/18/remarking-pinax-theme-bootstrap-be-semantic)
-* [Roadmap to Semantic Markup](https://github.com/pinax/pinax-theme-bootstrap/wiki/Roadmap-to-Semantic-Markup)
 
 <!--
 https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
@@ -348,6 +305,9 @@ Webpack Versus Browserify
 * [Browserify](http://browserify.org)
 
 <!--
+https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
+https://github.com/pinax/pinax/tree/adding-npm-guidance
+
 https://github.com/paltman/trying-webpack | paltman/trying-webpack
 
 JavaScript and Node
