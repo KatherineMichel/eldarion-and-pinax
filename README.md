@@ -1,6 +1,11 @@
 # Eldarion and Pinax
 
 <!--
+Pinax History
+https://www.ericholscher.com/blog/2008/sep/18/getting-started-pinax/ | Getting started with Pinax — Eric Holscher - Surfing in Kansas
+https://twitter.com/jtauber/status/1011298082724745218 | James Tauber on Twitter: "Pinax is the open source project I started 10 years ago. This is a great way to learn more about it...… "
+http://pinax.hotcluboffrance.com/profiles/jtauber/
+
 Michael
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
 https://mherman.org/about | About Me
@@ -17,21 +22,17 @@ https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-proje
 
 https://codecov.io/gh/pinax | Team ⋅ pinax
 
-https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
-https://github.com/pinax/symposion/tree/master/docs | symposion/docs at master · pinax/symposion
-Symposion Proposals App
-https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposion 0.5dev documentation
-http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
-https://web.archive.org/web/20170610082834/http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
-
 Hooksets
 https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
+-->
 
-PyCon Israel
-https://github.com/eldarion/pycon-israel | eldarion/pycon-israel: updates to Symposion for PyCon Israel
+<!--
+https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
+https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
+https://github.com/deep-philology/DeepVocabulary/wiki/Overview
+https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
 
-Scaife
-https://github.com/eldarion/scaife-skeleton/tree/master/src | scaife-skeleton/src at master · eldarion/scaife-skeleton
+SunoikisisDC
 https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki · GitHub
 https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
 https://www.dh.uni-leipzig.de/wo/sunoikisisdc/ | SunoikisisDC | Digital Humanities
@@ -39,23 +40,41 @@ https://www.youtube.com/watch?v=NFiNYEDxr-0&feature=youtu.be | (1) SunoikisisDC 
 https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki
 https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
 
-https://twitter.com/jtauber/status/1100952669760430081 | James Tauber on Twitter: "You should see the new Skeleton stuff we've been doing for Scaife! And we'll be at parity with DeepReader soon but with the "Fenway" stuff implemented.… https://t.co/GzndJAsQle"
-
 https://prometheus.io/ | Prometheus - Monitoring system & time series database
 http://www.perseus.tufts.edu/hopper/ | Perseus Digital Library
+https://github.com/PerseusDL | PerseusDL
+https://twitter.com/PerseusDigLib
 
-https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
-https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
+Scaife
+https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
+https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
+https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
+https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
+https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
 
 https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
+https://github.com/scaife-viewer
+https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
 https://github.com/scaife-viewer/scaife-background-update | scaife-viewer/scaife-background-update
 https://github.com/scaife-viewer/readhomer/issues/13 | (1) sibling extension (e.g. click + above or below lines to load more lines · Issue #13 · scaife-viewer/readhomer
-
-https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
 https://github.com/eldarion/scaife-skeleton | eldarion/scaife-skeleton: a layout component library for building Scaife Readers
+https://github.com/eldarion/scaife-skeleton/tree/master/src | scaife-skeleton/src at master · eldarion/scaife-skeleton
 https://github.com/eldarion/scaife-skeleton/pull/38 | WIP: Packaging by paltman · Pull Request #38 · eldarion/scaife-skeleton
-https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
+
+https://twitter.com/jtauber/status/1100952669760430081 | James Tauber on Twitter: "You should see the new Skeleton stuff we've been doing for Scaife! And we'll be at parity with DeepReader soon but with the "Fenway" stuff implemented.… https://t.co/GzndJAsQle"
+https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
+https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
+
+
 https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
+
+https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
+https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
+
+http://capitains.org/ | CapiTainS
+https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
+
+https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
 -->
 
 About Pinax and State of Pinax
@@ -106,6 +125,13 @@ Work in Progress- Symposium
 
 <!--
 https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
+
+https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
+https://github.com/pinax/symposion/tree/master/docs | symposion/docs at master · pinax/symposion
+Symposion Proposals App
+https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposion 0.5dev documentation
+http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
+https://web.archive.org/web/20170610082834/http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
 -->
 
 Work in Progress- Contributors
@@ -174,6 +200,10 @@ People
 * [James Tauber](http://jtauber.com) and [J.K. Tauber](https://jktauber.com)
 * [James Tauber GitHub](https://github.com/jtauber)
 * [Patrick Altman](http://paltman.com), [Patrick Altman Twitter](https://twitter.com/paltman), and [Patrick Altman CodePen](https://codepen.io/paltman)
+
+<!--
+https://mherman.org/about | About Me
+-->
 
 Site Care
 * [Eldarion Site Care and Maintenance](http://eldarion.com/consulting/django-site-care)
