@@ -1,11 +1,24 @@
 # Eldarion and Pinax
 
 <!--
+https://docs.djangoproject.com/en/2.2/intro/tutorial01/
+https://github.com/features/actions/signup
+
+Docs
+https://katherinemichel.github.io/pinax/
+
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
-https://twitter.com/jtauber/status/1161694116637528064
+https://en.wikipedia.org/wiki/Tessellation | Tessellation - Wikipedia
+
+Emmanuel
+https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
+https://github.com/kasulani/pinax-ratings/commit/4370a36f35546f64931495dbc694a21961f45d50#diff-5757770e77de5067fb42233ba7ef88e0 | Add Template tags tests · kasulani/pinax-ratings@4370a36
+
+Highest Voted 'pinax' Questions
+https://stackoverflow.com/questions/tagged/pinax | Highest Voted 'pinax' Questions - Stack Overflow
 
 Tools used by Eldarion
 
@@ -46,6 +59,9 @@ https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
 https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
 https://github.com/deep-philology/DeepVocabulary/wiki/Overview
 https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
+https://github.com/eldarion-client/DeepVocabulary/issues/15#event-1388183712 | better document how to get going locally · Issue #15 · eldarion-client/DeepVocabulary
+https://github.com/eldarion-client/DeepVocabulary/milestone/2 | Milestone 2 Milestone
+
 
 SunoikisisDC
 https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki · GitHub
@@ -59,6 +75,9 @@ https://prometheus.io/ | Prometheus - Monitoring system & time series database
 http://www.perseus.tufts.edu/hopper/ | Perseus Digital Library
 https://github.com/PerseusDL | PerseusDL
 https://twitter.com/PerseusDigLib
+
+"Thrilled that @eldarion is part of a just-announced NEH grant to continue work on the Scaife Viewer."
+https://twitter.com/jtauber/status/1161694116637528064
 
 Scaife
 https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
