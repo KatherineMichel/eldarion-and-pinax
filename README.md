@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Tessellation | Tessellation - Wikipedia
 
 Emmanuel
 https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
-https://github.com/kasulani/pinax-ratings/commit/4370a36f35546f64931495dbc694a21961f45d50#diff-5757770e77de5067fb42233ba7ef88e0 | Add Template tags tests · kasulani/pinax-ratings@4370a36
+
 
 Highest Voted 'pinax' Questions
 https://stackoverflow.com/questions/tagged/pinax | Highest Voted 'pinax' Questions - Stack Overflow
