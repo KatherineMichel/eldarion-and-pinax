@@ -5,7 +5,7 @@ https://docs.djangoproject.com/en/2.2/intro/tutorial01/
 https://github.com/features/actions/signup
 
 Docs
-https://katherinemichel.github.io/pinax/
+https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
 
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
