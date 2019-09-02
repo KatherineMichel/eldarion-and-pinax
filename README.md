@@ -1,8 +1,19 @@
 # Eldarion and Pinax
 
 <!--
-https://docs.djangoproject.com/en/2.2/intro/tutorial01/
 https://github.com/features/actions/signup
+
+https://docs.djangoproject.com/en/2.2/ref/templates/api/#playing-with-context-objects | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/forms/ | Working with forms | Django documentation | Django
+
+https://github.com/chaoss/metrics | chaoss/metrics: Implementation-agnostic metrics for assessing open source community health. Maintained by the CHAOSS Metrics Committee.
+
+https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
+
+https://docs.djangoproject.com/en/dev/intro/tutorial02/ | Writing your first Django app, part 2 | Django documentation | Django
+
+https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
+https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
 
 Docs
 https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
