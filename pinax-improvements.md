@@ -7,10 +7,6 @@ Positive things:
 
 Less positive things:
 
-For reference: 
-https://hynek.me/talks/python-foss/
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-
 https://github.com/chaoss/metrics
 
 The number one idea I took from Hynek's talk was to remove the friction from the process for the contributor.
