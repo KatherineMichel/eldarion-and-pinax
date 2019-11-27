@@ -1,14 +1,8 @@
 # Eldarion and Pinax
 
 <!--
-https://github.com/features/actions/signup
-
 https://docs.djangoproject.com/en/2.2/ref/templates/api/#playing-with-context-objects | The Django template language: for Python programmers | Django documentation | Django
 https://docs.djangoproject.com/en/2.2/topics/forms/ | Working with forms | Django documentation | Django
-
-https://github.com/chaoss/metrics | chaoss/metrics: Implementation-agnostic metrics for assessing open source community health. Maintained by the CHAOSS Metrics Committee.
-
-https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
 
 https://docs.djangoproject.com/en/dev/intro/tutorial02/ | Writing your first Django app, part 2 | Django documentation | Django
 
@@ -21,8 +15,6 @@ https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documenta
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
-
-https://en.wikipedia.org/wiki/Tessellation | Tessellation - Wikipedia
 
 Emmanuel
 https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
@@ -102,7 +94,7 @@ https://github.com/scaife-viewer
 https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
 https://github.com/scaife-viewer/scaife-background-update | scaife-viewer/scaife-background-update
 https://github.com/scaife-viewer/readhomer/issues/13 | (1) sibling extension (e.g. click + above or below lines to load more lines · Issue #13 · scaife-viewer/readhomer
-https://github.com/eldarion/scaife-skeleton | eldarion/scaife-skeleton: a layout component library for building Scaife Readers
+https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
 https://github.com/eldarion/scaife-skeleton/tree/master/src | scaife-skeleton/src at master · eldarion/scaife-skeleton
 https://github.com/eldarion/scaife-skeleton/pull/38 | WIP: Packaging by paltman · Pull Request #38 · eldarion/scaife-skeleton
 
@@ -120,43 +112,6 @@ http://capitains.org/ | CapiTainS
 https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
 
 https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
--->
-
-About Pinax and State of Pinax
-* [State of Pinax: DjangoCon 2009](https://www.slideshare.net/jtauber/state-of-pinax)
-
-<!--
-Eldarion Year in Review blog posts
-
-http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
-
-https://www.slideshare.net/search/slideshow?searchfrom=header&q=pinax&ud=any&ft=all&lang=en&sort=
-
-https://www.slideshare.net/jtauber/how-to-contribute-to-pinax
-https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
-https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
-
-https://www.slideshare.net/pydanny/pinax-introduction
-https://www.slideshare.net/pydanny/pinax-tutorial-090909
-https://www.slideshare.net/pydanny/pinax-long-tutorial-slides | Pinax Long Tutorial Slides
-http://pydanny.blogspot.com/2010/ | pydanny: 2010
-
-https://2016.djangocon.us/schedule/presentation/45/ | Presentation: Building JSON APIs with Django / Pinax
-https://speakerdeck.com/brosner/pinax | Building JSON APIs with Django / Pinax // Speaker Deck
-https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to the JSON:API specification
-http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
-
-https://groups.google.com/forum/#!forum/pinax-core-dev
-https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI
-https://groups.google.com/forum/#!topic/pinax-business/OOhLDYEYv9c
-
-https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI | list of sites using pinax - Google Groups
-Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
-
-Pinax History
-https://www.ericholscher.com/blog/2008/sep/18/getting-started-pinax/ | Getting started with Pinax — Eric Holscher - Surfing in Kansas
-https://twitter.com/jtauber/status/1011298082724745218 | James Tauber on Twitter: "Pinax is the open source project I started 10 years ago. This is a great way to learn more about it...… "
-http://pinax.hotcluboffrance.com/profiles/jtauber/
 -->
 
 Work in Progress- New Release
@@ -249,6 +204,20 @@ Pinax
 * [Pinax Slack Signup](http://slack.pinaxproject.com)
 * [Pinax Slack](https://pinax.slack.com)
 * [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ)
+
+<!--
+* [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
+* [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
+* [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
+* [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
+* [Pinax Blog GitHub](https://github.com/pinax/pinax-blog) 
+* [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
+* [Pinax Symposion GitHub](https://github.com/pinax/symposion)  
+
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+-->
 
 People
 * [James Tauber](http://jtauber.com) and [J.K. Tauber](https://jktauber.com)
@@ -471,3 +440,42 @@ Clients and Orgs
 
 Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
+
+## Pinax History
+
+About Pinax and State of Pinax
+* [State of Pinax: DjangoCon 2009](https://www.slideshare.net/jtauber/state-of-pinax)
+
+<!--
+Eldarion Year in Review blog posts
+
+http://paltman.com/october-2018-review/ | October 2018 Review | Patrick Altman
+
+https://www.slideshare.net/search/slideshow?searchfrom=header&q=pinax&ud=any&ft=all&lang=en&sort=
+
+https://www.slideshare.net/jtauber/how-to-contribute-to-pinax
+https://www.slideshare.net/jtauber/state-of-pinax/19-reusable_appquisition_potterpredictions | State of Pinax
+https://www.slideshare.net/jtauber/state-of-pinax/33-Sites_Using_Pinax | reusable app quisition potterpredictions
+
+https://www.slideshare.net/pydanny/pinax-introduction
+https://www.slideshare.net/pydanny/pinax-tutorial-090909
+https://www.slideshare.net/pydanny/pinax-long-tutorial-slides | Pinax Long Tutorial Slides
+http://pydanny.blogspot.com/2010/ | pydanny: 2010
+
+https://2016.djangocon.us/schedule/presentation/45/ | Presentation: Building JSON APIs with Django / Pinax
+https://speakerdeck.com/brosner/pinax | Building JSON APIs with Django / Pinax // Speaker Deck
+https://github.com/pinax/pinax-api | pinax/pinax-api: RESTful API adhering to the JSON:API specification
+http://eldarion.com/blog/2016/08/18/eldarions-brian-rosner-speaks-djangocon-us-2016/ | Eldarion's Brian Rosner Speaks At DjangoCon US 2016 — Eldarion Blog
+
+https://groups.google.com/forum/#!forum/pinax-core-dev
+https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI
+https://groups.google.com/forum/#!topic/pinax-business/OOhLDYEYv9c
+
+https://groups.google.com/forum/#!topic/pinax-users/rtBvRdjd2ZI | list of sites using pinax - Google Groups
+Sites built with Pinax: https://github.com/pinax/pinax-theme-pinaxproject/blob/master/pinax_theme_pinaxproject/templates/example_sites/home.html
+
+Pinax History
+https://www.ericholscher.com/blog/2008/sep/18/getting-started-pinax/ | Getting started with Pinax — Eric Holscher - Surfing in Kansas
+https://twitter.com/jtauber/status/1011298082724745218 | James Tauber on Twitter: "Pinax is the open source project I started 10 years ago. This is a great way to learn more about it...… "
+http://pinax.hotcluboffrance.com/profiles/jtauber/
+-->
