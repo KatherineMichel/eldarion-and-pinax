@@ -260,15 +260,6 @@ https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python
 https://pypi.python.org/pypi/pinax-documents | pinax-documents 1.0.0 : Python Package Index
 -->
 
-Tags and Releases
-* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
-* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
-* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
-
-<!--
-https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
--->
-
 Distribution
 * [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
 
@@ -287,78 +278,6 @@ https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-c
 
 https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
-
-Kubernetes
-* [Kubernetes](https://kubernetes.io)
-
-<!--
-https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
-https://vuejs.org/ | Vue.js
-https://www.browsersync.io/ | Browsersync - Time-saving synchronised browser testing
-
-http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
-https://fontawesome.com | Font Awesome 5 | Font Awesome
--->
-
-Webpack Versus Browserify
-* [Webpack](https://webpack.js.org)
-* [Copy Webpack Plugin GitHub](https://github.com/webpack-contrib/copy-webpack-plugin)
-* [Browserify](http://browserify.org)
-
-<!--
-https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
-https://github.com/pinax/pinax/tree/adding-npm-guidance
-
-https://github.com/paltman/trying-webpack | paltman/trying-webpack
-
-JavaScript and Node
-https://github.com/substack/node-mkdirp
-https://www.npmjs.com/package/rimraf
-https://github.com/isaacs/rimraf
-https://webpack.js.org/concepts/loaders/ | loaders
-https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
--->
-
-Eldarion- Package Tools
-* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
-
-<!--
-https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
-
-Pinax Related Packages
-https://pypi.org/project/django-friendship/ | django-friendship · PyPI
-https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
-https://pypi.org/project/Pillow/ | Pillow · PyPI
-https://pypi.org/project/six/ | six · PyPI
-
-https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
-https://pypi.org/simple/markdown/ | Links for Markdown
-https://pypi.org/simple/mock/ | Links for mock
-https://pypi.org/project/required/ | required · PyPI
-https://pypi.org/project/certifi/ | certifi · PyPI
--->
-
-Eldarion- Testing Tools
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
-
-<!--
-https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
-
-https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
-
-pytz
-https://pypi.org/project/pytz/ | pytz · PyPI
--->
-
-Eldarion- Continuous Integration and Delivery
-* [CircleCI](https://circleci.com)
-* [Codecov](https://codecov.io)
 
 Testing- Blog Posts
 * ["How We Maintain High Levels of Code Quality" Blog Post](http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality)
