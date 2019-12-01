@@ -47,6 +47,26 @@ https://codecov.io/gh/pinax | Team ⋅ pinax
 
 Hooksets
 https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
+
+Pinax Related Packages
+https://pypi.org/project/django-friendship/ | django-friendship · PyPI
+https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
+
+https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
+
+https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
+
+https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
+https://github.com/pinax/pinax/tree/adding-npm-guidance
+
+https://github.com/paltman/trying-webpack | paltman/trying-webpack
+
+JavaScript and Node
+https://github.com/substack/node-mkdirp
+https://www.npmjs.com/package/rimraf
+https://github.com/isaacs/rimraf
+https://webpack.js.org/concepts/loaders/ | loaders
+https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
 -->
 
 <!--
