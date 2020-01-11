@@ -261,10 +261,17 @@ Work in Progress- Screencasts
 * [Screencasts GitHub](https://github.com/pinax/screencasts)
 
 <!--
+Onboarding- Ways to Get Involved
+* Identify up-for-grabs issues
+* Use tutorial
+* Read README docs
+
+Community
+http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+
 Onboarding
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
-
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
 
 http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
 
