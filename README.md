@@ -15,9 +15,6 @@ Emmanuel
 https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
 
 
-Highest Voted 'pinax' Questions
-https://stackoverflow.com/questions/tagged/pinax | Highest Voted 'pinax' Questions - Stack Overflow
-
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
 
 http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
@@ -122,6 +119,7 @@ Work in Progress- Improve Docs
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 * [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
 
+## Pinax WIP- DUA
 
 Work in Progress- Decouple DUA
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
@@ -150,6 +148,8 @@ https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposio
 http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
 https://web.archive.org/web/20170610082834/http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
 -->
+
+## Pinax WIP- Other
 
 Work in Progress- Contributors
 * [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
@@ -223,7 +223,8 @@ https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/doc
 
 * [Pinax Slack Signup](http://slack.pinaxproject.com)
 * [Pinax Slack](https://pinax.slack.com)
-* [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ)
+* [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos)
+* [Pinax questions on Stack Overflow](https://stackoverflow.com/questions/tagged/pinax)
 
 <!--
 Watch- Pinax Hangout
