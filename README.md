@@ -1,20 +1,15 @@
 # Eldarion and Pinax
 
 <!--
-https://docs.djangoproject.com/en/2.2/ref/templates/api/#playing-with-context-objects | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/topics/forms/ | Working with forms | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/intro/tutorial02/ | Writing your first Django app, part 2 | Django documentation | Django
-
 https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
 https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
-
-Docs
-https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
 
 Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
+
+Docs
+https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
 
 Emmanuel
 https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
@@ -23,34 +18,12 @@ https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasul
 Highest Voted 'pinax' Questions
 https://stackoverflow.com/questions/tagged/pinax | Highest Voted 'pinax' Questions - Stack Overflow
 
-Tools used by Eldarion
-
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
-
-Watch- Pinax Hangout
-https://www.youtube.com/watch?v=iun7y4hz0gg | Pinax Hangout September 2015: django-user-accounts - YouTube
-
-Pinax Hangouts
-https://plus.google.com/115295556556577946862/posts
-http://blog.pinaxproject.com/2016/04/19/quick-slack-guide/
-http://blog.pinaxproject.com/2015/06/09/how-we-built-blog/
-https://www.youtube.com/watch?v=SCGrw1eTRhU
-https://plus.google.com/events/c6js77tke600p4ohsablct0bp5o
-http://blog.pinaxproject.com/2015/10/12/recap-september-pinax-hangout/
-http://blog.pinaxproject.com/2015/11/25/recap-november-pinax-hangout/
-http://blog.pinaxproject.com/2016/01/27/recap-january-pinax-hangout/
-http://blog.pinaxproject.com/2016/02/09/pinax-hangout-february-2016/
 
 http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
 
-https://codecov.io/gh/pinax | Team ⋅ pinax
-
 Hooksets
 https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
-
-Pinax Related Packages
-https://pypi.org/project/django-friendship/ | django-friendship · PyPI
-https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
 
 https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
 
@@ -70,7 +43,8 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 -->
 
 <!--
-James
+James and Client
+
 https://jktauber.com/2017/05/31/modelling-derivational-morphology/ | Modelling Derivational Morphology | J. K. Tauber
 Eldarion
 https://jktauber.com/2018/03/05/tour-greek-morphology-part-20/ | A Tour of Greek Morphology: Part 20 | J. K. Tauber
@@ -84,7 +58,6 @@ https://github.com/deep-philology/DeepVocabulary/wiki/Overview
 https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
 https://github.com/eldarion-client/DeepVocabulary/issues/15#event-1388183712 | better document how to get going locally · Issue #15 · eldarion-client/DeepVocabulary
 https://github.com/eldarion-client/DeepVocabulary/milestone/2 | Milestone 2 Milestone
-
 
 SunoikisisDC
 https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki · GitHub
@@ -122,7 +95,6 @@ https://twitter.com/jtauber/status/1100952669760430081 | James Tauber on Twitter
 https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
 https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
 
-
 https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
 
 https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
@@ -134,19 +106,22 @@ https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual 
 https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
 -->
 
+## Pinax WIP- Release Docs
+
 Work in Progress- New Release
-* [Pinax 19.xx Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-19.xx)
+* [Pinax 20.xx Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-20.xx)
 * [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
 
-Work in Progress- Pinax Releases
-* ["Continuously Deploying Python Packages to PyPI with CircleCI"](https://circleci.com/blog/continuously-deploying-python-packages-to-pypi-with-circleci)
-* [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
-* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
-* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
+## Pinax WIP- Docs
 
-<!--
-https://circleci.com/blog/deploying-documentation-to-github-pages-with-continuous-integration/ | Deploying documentation to GitHub Pages with continuous integration - CircleCI
--->
+Work in Progress- Documentation
+* [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
+* [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
+
+Work in Progress- Improve Docs
+* [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
+* [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
+
 
 Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
@@ -166,14 +141,6 @@ https://web.archive.org/web/20170610082834/http://symposion.readthedocs.io/en/la
 Work in Progress- Contributors
 * [Pinax Contributors Portal GitHub](https://github.com/pinax/pinax/wiki/Contributors-Portal)
 
-Work in Progress- Documentation
-* [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
-* [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
-
-Work in Progress- Improve Docs
-* [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
-* [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
-
 <!--
 https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
 
@@ -188,69 +155,28 @@ Work in Progress- Pinax Demo Projects
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
 
-Work in Progress- Screencasts
-* [Screencasts GitHub](https://github.com/pinax/screencasts)
-
 Work in Progress- Decouple DUA
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 
 <!--
 https://django-user-accounts.readthedocs.io/en/latest/faq.html#what-is-the-difference-between-django-user-accounts-and-django-contrib-auth | FAQ — django-user-accounts 2.0.3 documentation
 
-Onboarding
-https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
-
 https://www.npmjs.com/package/pinax-images-panel
 -->
 
-Eldarion
+
+## Eldarion
+
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Clients](http://eldarion.com/what-we-do)
 * [Eldarion Clients GitHub](https://github.com/eldarion-client)
 * [Eldarion YouTube](https://www.youtube.com/channel/UCnop70xOY_4dAr4YB9jjlOg)
 * [Eldarion LinkedIn](https://www.linkedin.com/company/eldarion)
 
-<!--
-https://github.com/orgs/eldarion/teams/developers | Developers · Eldarion, Inc. Discussion
--->
-
-Pinax
-* [Pinax](http://pinaxproject.com) and [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
-* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
-* [Pinax Wikipedia](https://en.wikipedia.org/wiki/Pinax)
-* [Pinax Twitter](https://twitter.com/pinaxproject)
-* [Pinax Blog](http://blog.pinaxproject.com) and [Pinax Medium](https://medium.com/pinax)
-* [Pinax GitHub](https://github.com/pinax)
-* [Pinax Slack Signup](http://slack.pinaxproject.com)
-* [Pinax Slack](https://pinax.slack.com)
-* [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ)
-
-<!--
-* [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
-* [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
-* [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
-* [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
-* [Pinax Blog GitHub](https://github.com/pinax/pinax-blog) 
-* [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
-* [Pinax Symposion GitHub](https://github.com/pinax/symposion)  
-
-https://github.com/eldarion/djangocon.us
-https://ky395.us2.gondor.io
-http://eldarion.com
--->
-
-People
-* [James Tauber](http://jtauber.com) and [J.K. Tauber](https://jktauber.com)
-* [James Tauber GitHub](https://github.com/jtauber)
-* [Patrick Altman](http://paltman.com), [Patrick Altman Twitter](https://twitter.com/paltman), and [Patrick Altman CodePen](https://codepen.io/paltman)
-* [Michael Herman](https://mherman.org/) 
+## Services, Past and Present
 
 Site Care
 * [Eldarion Site Care and Maintenance](http://eldarion.com/consulting/django-site-care)
-
-<!--
-https://www.youtube.com/watch?v=q6-zh2ZT9HE | How Eldarion Cloud Boosts Productivity of Development Teams - YouTube
--->
 
 Dedicated Python Hosting
 * [Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes (Formerly Gondor)](http://eldarion.cloud)
@@ -263,6 +189,92 @@ https://blog.eldarion.cloud/
 http://eldarion-gondor.github.io/docs/#how-tos | Eldarion Cloud Documentation
 -->
 
+## People
+
+* [James Tauber](http://jtauber.com) and [J.K. Tauber](https://jktauber.com)
+* [James Tauber GitHub](https://github.com/jtauber)
+* [Patrick Altman](http://paltman.com), [Patrick Altman Twitter](https://twitter.com/paltman), and [Patrick Altman CodePen](https://codepen.io/paltman)
+* [Michael Herman](https://mherman.org/) 
+
+## Pinax Links
+
+* [Pinax](http://pinaxproject.com)
+* [Pinax Wikipedia](https://en.wikipedia.org/wiki/Pinax)
+* [Pinax GitHub](https://github.com/pinax)
+* [Pinax Twitter](https://twitter.com/pinaxproject)
+* [Pinax Blog](http://blog.pinaxproject.com) and [Pinax Medium](https://medium.com/pinax)
+
+## Pinax Clients and Orgs
+
+* [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
+* [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
+
+## Pinax Docs
+
+* [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
+* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
+
+## Pinax Support
+
+* [Pinax Slack Signup](http://slack.pinaxproject.com)
+* [Pinax Slack](https://pinax.slack.com)
+* [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ)
+
+<!--
+Watch- Pinax Hangout
+https://www.youtube.com/watch?v=iun7y4hz0gg | Pinax Hangout September 2015: django-user-accounts - YouTube
+
+Pinax Hangouts
+https://plus.google.com/115295556556577946862/posts
+http://blog.pinaxproject.com/2016/04/19/quick-slack-guide/
+http://blog.pinaxproject.com/2015/06/09/how-we-built-blog/
+https://www.youtube.com/watch?v=SCGrw1eTRhU
+https://plus.google.com/events/c6js77tke600p4ohsablct0bp5o
+http://blog.pinaxproject.com/2015/10/12/recap-september-pinax-hangout/
+http://blog.pinaxproject.com/2015/11/25/recap-november-pinax-hangout/
+http://blog.pinaxproject.com/2016/01/27/recap-january-pinax-hangout/
+http://blog.pinaxproject.com/2016/02/09/pinax-hangout-february-2016/
+-->
+
+## Pinax Contributing
+
+How to Contribute
+* [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
+* [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
+
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+
+Work in Progress- Screencasts
+* [Screencasts GitHub](https://github.com/pinax/screencasts)
+
+<!--
+Onboarding
+https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
+
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+
+http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
+
+https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
+https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+
+Pinax Developer Profiles
+* [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
+-->
+
+
+<!--
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+-->
+
+
+## PyPI and Pinax Packages
+
 Pinax Packages
 * [Warehouse Pinax Search](https://pypi.org/search/?q=pinax)
 * [Pinax Warehouse Account](https://pypi.org/project/Pinax/)
@@ -274,16 +286,30 @@ Warehouse Profiles
 * [Brian Rosner](https://pypi.org/user/brosner)
 
 <!--
-Packages
-https://pypi.org/project/pinax-likes | pinax-likes · Warehouse (PyPI)
-https://pypi.python.org/pypi/pinax-likes/#downloads | pinax-likes 3.0.0 : Python Package Index
-https://pypi.python.org/pypi/pinax-documents | pinax-documents 1.0.0 : Python Package Index
+Pinax Related Packages
+https://pypi.org/project/django-friendship/ | django-friendship · PyPI
+https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
+
+Webpack Versus Browserify
+* [Webpack](https://webpack.js.org)
+
+https://pypi.org/project/Pillow/ | Pillow · PyPI
+
+https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
+
+https://pypi.org/project/pytz/ | pytz · PyPI
+
+https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
+https://pypi.org/simple/markdown/ | Links for Markdown
+https://pypi.org/simple/mock/ | Links for mock
+https://pypi.org/project/required/ | required · PyPI
+https://pypi.org/project/certifi/ | certifi · PyPI
 -->
 
 Distribution
 * [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
 
-Distribution Scripts
+## Distribution Scripts
 
 <!--
 Starter project explainer
@@ -299,11 +325,40 @@ https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-c
 https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
 
+## Continuous Integration, Coverage, and Supported Versions Matrix Approach
+
+<!--
+Tools used by Eldarion
+-->
+
+Pinax Codecov Dashboard
+* [Pinax Codecov Dashboard](https://codecov.io/gh/pinax)
+
 Testing- Blog Posts
 * ["How We Maintain High Levels of Code Quality" Blog Post](http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality)
 * ["5 Reasons You Should Care about Code Coverage" Blog Post](http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage)
 * ["How to Test Against Multiple Python Versions in Parallel" Blog Post](http://blog.pinaxproject.com/2015/12/08/how-test-against-multiple-python-versions-parallel)
 * ["How We Work Continuous Integration" Blog Post](https://eldarion.com/blog/2014/06/03/how-we-work-continuous-integration/)
+
+## Triaging
+
+Triaging Labels
+* difficulty: easy
+* difficulty: medium
+* difficulty: hard
+* bug
+* docs
+* enhancement
+* question
+* for discussion
+* backward incompatible change
+* new starter project
+* community
+* up-for-grabs
+* first-timers-only
+* DjangoCon Sprint
+
+## Blog Posts
 
 Blog Photos
 * [Unsplash](https://unsplash.com)
@@ -338,47 +393,6 @@ Typical Pinax Blog Post Subjects
 * My first pull request series
 * Hangouts and Recaps
 * Conferences
-
-How to Contribute
-* [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
-* [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
-
-<!--
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-
-http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
-
-https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
-https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
--->
-
-Example First-Timers Info
-* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-
-Triaging Labels
-* difficulty: easy
-* difficulty: medium
-* difficulty: hard
-* bug
-* docs
-* enhancement
-* question
-* for discussion
-* backward incompatible change
-* new starter project
-* community
-* up-for-grabs
-* first-timers-only
-* DjangoCon Sprint
-
-Clients and Orgs
-* [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
-* [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
-
-Pinax Developer Profiles
-* [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
 
 ## Pinax History
 
