@@ -123,6 +123,17 @@ Work in Progress- Improve Docs
 * [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
 
 
+Work in Progress- Decouple DUA
+* [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
+
+<!--
+https://django-user-accounts.readthedocs.io/en/latest/faq.html#what-is-the-difference-between-django-user-accounts-and-django-contrib-auth | FAQ — django-user-accounts 2.0.3 documentation
+
+https://www.npmjs.com/package/pinax-images-panel
+-->
+
+## Symposium
+
 Work in Progress- Symposium
 * [Conference Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Conference-Starter-Project)
 * [PyCon Israel GitHub](https://il.pycon.org/2018) and [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
@@ -156,16 +167,6 @@ https://github.com/pinax/pinax-stripe/milestone/11 | Rosie Milestone
 Work in Progress- Pinax Demo Projects
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 * [Patch Game](http://patchgame.pinaxproject.com) and [Patch Game GitHub](https://github.com/pinax/patch-game)
-
-Work in Progress- Decouple DUA
-* [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
-
-<!--
-https://django-user-accounts.readthedocs.io/en/latest/faq.html#what-is-the-difference-between-django-user-accounts-and-django-contrib-auth | FAQ — django-user-accounts 2.0.3 documentation
-
-https://www.npmjs.com/package/pinax-images-panel
--->
-
 
 ## Eldarion
 
@@ -212,6 +213,11 @@ Gondor
 
 * [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
 * [Pinax Wiki](https://github.com/pinax/pinax/wiki)
+
+<!--
+Starter project explainer
+https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
+-->
 
 ## Pinax Support
 
@@ -301,20 +307,16 @@ https://pypi.org/project/certifi/ | certifi · PyPI
 Distribution
 * [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
 
-## Distribution Scripts
+## Release Scripts
+
+* [Pinax Checker](https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc)
+* [Pinax Projects Script](https://github.com/pinax/pinax/blob/master/projects.json)
+* [Pinax Distributions Script](https://github.com/pinax/pinax/blob/master/distributions.json)
 
 <!--
-Starter project explainer
-https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
+https://github.com/pinax-archives/
 
-Pinax Release Script
-https://github.com/pinax/pinax/blob/master/projects.json
-https://github.com/pinax/pinax/blob/master/distributions.json | pinax/distributions.json at master · pinax/pinax
-
-Pinax Checker
-https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc | pinax-checkers/.pylintrc at master · pinax-archives/pinax-checkers
-
-https://github.com/cndn/intelligent-code-completion/blob/edb80a083f481aa30897d5cb91c2bc53708b9ec5/raw_data/45600_check.py | intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
+https://github.com/cndn/intelligent-code-completion/blob/master/raw_data/45600_check.py| intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
 
 ## Continuous Integration, Coverage, and Supported Versions Matrix Approach
