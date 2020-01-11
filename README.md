@@ -14,23 +14,21 @@ https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documenta
 Emmanuel
 https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
 
-
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
 
 http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
 
-Hooksets
+
 https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
-
-https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
-
-https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
-https://github.com/pinax/pinax/tree/adding-npm-guidance
-
-https://github.com/paltman/trying-webpack | paltman/trying-webpack
 -->
 
 <!--
+https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
+
+https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
+
+https://github.com/paltman/trying-webpack | paltman/trying-webpack
+
 James and Client
 
 https://jktauber.com/2017/05/31/modelling-derivational-morphology/ | Modelling Derivational Morphology | J. K. Tauber
@@ -83,8 +81,6 @@ https://twitter.com/jtauber/status/1100952669760430081 | James Tauber on Twitter
 https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
 https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
 
-https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
-
 https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
 https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
 
@@ -97,6 +93,9 @@ https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
 ## Issues
 
 <!--
+https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
+https://github.com/pinax/pinax/tree/adding-npm-guidance
+
 https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
 
 JavaScript and Node
@@ -282,7 +281,6 @@ Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
 -->
 
-
 ## PyPI and Pinax Packages
 
 Pinax Packages
@@ -295,13 +293,15 @@ Warehouse Profiles
 * [Patrick Altman](https://pypi.org/user/paltman)
 * [Brian Rosner](https://pypi.org/user/brosner)
 
+## Pinax-Related Packages
+
 <!--
+Webpack Versus Browserify
+* [Webpack](https://webpack.js.org)
+
 Pinax Related Packages
 https://pypi.org/project/django-friendship/ | django-friendship · PyPI
 https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
-
-Webpack Versus Browserify
-* [Webpack](https://webpack.js.org)
 
 https://pypi.org/project/Pillow/ | Pillow · PyPI
 
@@ -316,10 +316,10 @@ https://pypi.org/project/required/ | required · PyPI
 https://pypi.org/project/certifi/ | certifi · PyPI
 -->
 
+## Release Scripts
+
 Distribution
 * [Pinax CLI GitHub](https://github.com/pinax/pinax-cli)
-
-## Release Scripts
 
 * [Pinax Checker](https://github.com/pinax-archives/pinax-checkers/blob/master/.pylintrc)
 * [Pinax Projects Script](https://github.com/pinax/pinax/blob/master/projects.json)
