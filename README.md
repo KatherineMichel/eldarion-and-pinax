@@ -128,6 +128,8 @@ Work in Progress- Symposium
 * [PyCon Israel GitHub](https://il.pycon.org/2018) and [PyCon Israel GitHub](https://github.com/eldarion/pycon-israel)
 
 <!--
+https://github.com/eldarion/djangocon.us
+
 https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
 
 https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
@@ -180,14 +182,11 @@ Site Care
 
 Dedicated Python Hosting
 * [Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes (Formerly Gondor)](http://eldarion.cloud)
+* [Eldarion Cloud Documentation](http://eldarion-gondor.github.io/docs/#how-tos)
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
-<!--
-Eldarion Cloud,  Blog and Docs (formerly Gondor)
-https://github.com/eldarion-gondor | Gondor
-https://blog.eldarion.cloud/ 
-http://eldarion-gondor.github.io/docs/#how-tos | Eldarion Cloud Documentation
--->
+Gondor
+* [Gondor GitHub Organization](https://github.com/eldarion-gondor)
 
 ## People
 
@@ -263,13 +262,6 @@ https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching
 
 Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
--->
-
-
-<!--
-https://github.com/eldarion/djangocon.us
-https://ky395.us2.gondor.io
-http://eldarion.com
 -->
 
 
