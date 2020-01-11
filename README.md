@@ -24,19 +24,10 @@ https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Se
 
 https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
 
-https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
-
 https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
 https://github.com/pinax/pinax/tree/adding-npm-guidance
 
 https://github.com/paltman/trying-webpack | paltman/trying-webpack
-
-JavaScript and Node
-https://github.com/substack/node-mkdirp
-https://www.npmjs.com/package/rimraf
-https://github.com/isaacs/rimraf
-https://webpack.js.org/concepts/loaders/ | loaders
-https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
 -->
 
 <!--
@@ -101,6 +92,19 @@ http://capitains.org/ | CapiTainS
 https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
 
 https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
+-->
+
+## Issues
+
+<!--
+https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
+
+JavaScript and Node
+https://github.com/substack/node-mkdirp
+https://www.npmjs.com/package/rimraf
+https://github.com/isaacs/rimraf
+https://webpack.js.org/concepts/loaders/ | loaders
+https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
 -->
 
 ## Pinax WIP- Release Docs
