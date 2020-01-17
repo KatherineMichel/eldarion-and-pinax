@@ -1,6 +1,31 @@
 # Pinax- Porting from Python 2 to 3
 
+f-strings
+type checking
 from __future__ import
+https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/
+https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis
+
+https://docs.djangoproject.com/en/3.0/releases/2.0/
+While Python 2 support was removed in Django 2.0, some private APIs weren’t removed from Django so that third party apps could continue using them until the Python 2 end-of-life.
+
+Since we expect apps to drop Python 2 compatibility when adding support for Django 3.0, we’re removing these APIs at this time.
+
+django.utils.six - Remove usage of this vendored library or switch to six.
+Many
+
+from django.utils.decorators import available_attrs
+https://github.com/pinax/pinax-teams/blob/master/pinax/teams/decorators.py
+https://github.com/pinax/django-user-accounts/blob/master/account/decorators.py
+
+from django.utils.encoding import python_2_unicode_compatible
+Many
+
+from django.utils.functional import curry
+Several
+
+https://github.com/pinax/symposion/commit/a95825ede8d4039cb406c7a7acd2d94abde1f29a
 
 ## Essential syntax differences
 
