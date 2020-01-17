@@ -94,52 +94,106 @@ None
 
 ### File IO with open()
 
-### reduce()
+### reduce() :checkmark:
 
-### raw_input()
+https://github.com/pinax/django-user-accounts/blob/master/account/models.py
 
-### input()
+### raw_input() :checkmark:
+
+None
+
+### input() :checkmark:
+
+I don't think so
 
 ### file()
 
-### exec
+Possibly a number of them
 
-### execfile()
+### exec :checkmark:
 
-### unichr()
+None
 
-### intern()
+Don't think so
+https://github.com/pinax/pinax-api/blob/master/docs/utilities.md
+
+### execfile() :checkmark:
+
+https://github.com/pinax/symposion/blob/master/docs/conf.py
+https://github.com/pinax/django-waitinglist/blob/master/docs/conf.py
+
+### unichr() :checkmark:
+
+None
+
+### intern() :checkmark:
+
+None
 
 ### apply()
 
-### chr()
+Not sure- look again
 
-### cmp()
+### chr() :checkmark:
 
-### reload()
+None
+
+### cmp() :checkmark:
+
+https://github.com/pinax/pinax/blob/master/check.py
+
+### reload() :checkmark:
+
+I don't think so
 
 
 ## Standard library
 
-### dbm modules
+### dbm modules :checkmark:
 
-### commands / subprocess modules
+I don't think so
 
-### subprocess.check_output()
+### commands / subprocess modules :checkmark:
 
-### collections: Counter and OrderedDict
+None
 
-### StringIO module
+### subprocess.check_output() :checkmark:
 
-### http module
+None
 
-### xmlrpc module
+### collections: Counter and OrderedDict :checkmark:
 
-### html escaping and entities
+from collections import OrderedDict
+https://github.com/pinax/django-user-accounts/blob/master/account/forms.py
 
-### html parsing
+### StringIO module :checkmark:
 
-### urllib module
+https://github.com/pinax/django-user-accounts/blob/master/account/tests/test_commands.py
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/tests.py
+
+### http module :checkmark:
+
+None
+
+### xmlrpc module :checkmark:
+
+None
+
+### html escaping and entities :checkmark:
+
+from html import escape
+Not sure
+
+htmlentitydefs
+None
+
+### html parsing :checkmark:
+
+HTMLParser
+https://github.com/pinax/symposion/blob/master/symposion/markdown_parser.py
+
+### urllib module :checkmark:
 
 urlparse
 https://github.com/pinax/django-user-accounts/blob/master/account/utils.py
