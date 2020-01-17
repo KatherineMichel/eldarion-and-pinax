@@ -1,34 +1,59 @@
 # Pinax- Porting from Python 2 to 3
 
+from __future__ import
 
 ## Essential syntax differences
 
 ### print
 
+Possibly many
+
 ### Raising exceptions
+
+Not sure
 
 ### Catching exceptions
 
+Not sure
+
 ### Division
+
+Not sure
 
 ### Long integers
 
+Not sure
+
 ### Octal constants
+
+Not sure
 
 ### Backtick repre
 
+Not sure
+
 ### Metaclasses
+
+Not sure
 
 
 ## Strings and bytes
 
 ### Unicode (text) string literals
 
+Not sure
+
 ### Byte-string literals
 
-### basestring
+Not sure
+
+### basestring :checkmark:
+
+None
 
 ### unicode
+
+Not sure
 
 ### StringIO
 
@@ -38,6 +63,9 @@ https://github.com/pinax/symposion/blob/master/symposion/sponsorship/tests.py
 
 
 ## Imports relative to package
+
+Not sure
+
 
 ## Dictionaries
 
@@ -68,9 +96,15 @@ Many, probably
 
 ### Custom iterators
 
+Not sure
+
 ### Custom __str__ methods
 
-### Custom __nonzero__ vs __bool__ method:
+Not sure... possibly  many
+
+### Custom __nonzero__ vs __bool__ method :checkmark:
+
+https://github.com/pinax/pinax-points/commit/d5b90fd90a6a5a90a848c7699132781d289c364f
 
 
 ## Lists versus iterators
@@ -81,18 +115,38 @@ None
 
 ### range
 
+Not sure
+
 ### map
 
-### imap
+Not sure
+
+### imap :checkmark:
+
+None
 
 ### zip, izip
 
+zip
+Not sure
+
+izip
+None
+
 ### filter, ifilter
+
+filter
+Not sure
+
+ifilter
+None
 
 
 ## Other builtins
 
 ### File IO with open()
+
+Not sure
 
 ### reduce() :checkmark:
 
