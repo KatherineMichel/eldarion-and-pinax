@@ -1,6 +1,8 @@
 # Eldarion and Pinax
 
 <!--
+https://github.com/pinax/pinax/issues/152
+
 https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
 https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
 
