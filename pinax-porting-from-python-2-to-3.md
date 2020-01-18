@@ -5,8 +5,8 @@ type checking
 from __future__ import
 https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/
 https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
-https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis
 
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis
 https://docs.djangoproject.com/en/3.0/releases/2.0/
 While Python 2 support was removed in Django 2.0, some private APIs weren’t removed from Django so that third party apps could continue using them until the Python 2 end-of-life.
 
