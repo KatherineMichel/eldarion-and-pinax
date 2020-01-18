@@ -1,6 +1,8 @@
 # Eldarion and Pinax
 
 <!--
+https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md
+
 https://pypi.org/manage/projects/
 https://github.com/pinax/pinax-badges/issues/27
 https://github.com/pinax/pinax/issues/152
