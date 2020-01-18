@@ -1,6 +1,22 @@
 # Eldarion and Pinax
 
 <!--
+Case Study
+https://github.com/pinax/pinax-referrals/blob/master/pinax/referrals/tests/tests.py | pinax-referrals/tests.py at master · pinax/pinax-referrals
+
+Issues and Pos
+https://github.com/pinax/django-user-accounts/issues/321 | Django 3.0 support · Issue #321 · pinax/django-user-accounts
+https://github.com/massware/django-user-accounts/commit/0d9d407b9bd5414f1c5a03b9e0cfdd86407f1a2b | Support dj30, py38, remove py27 support · master/django-user-accounts@0d9d407
+
+Porting example
+https://github.com/KatherineMichel/pinax-blog/blob/futurize/pinax/blog/views.py.bak | pinax-blog/views.py.bak at futurize · KatherineMichel/pinax-blog
+
+https://github.com/pinax-archives/ | pinax-archives
+
+https://pinaxproject.com/pinax/release_process/ | Release Process - Pinax Documentation
+
+https://gist.github.com/KatherineMichel/1877ac1e0bb22e08eae960dc3e1f03bd | Pinax 19.xx
+
 https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md
 
 https://pypi.org/manage/projects/
