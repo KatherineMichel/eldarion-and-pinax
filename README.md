@@ -1,6 +1,9 @@
 # Eldarion and Pinax
 
 <!--
+https://deepsource.io/
+htmlcov
+
 Case Study
 https://github.com/pinax/pinax-referrals/blob/master/pinax/referrals/tests/tests.py | pinax-referrals/tests.py at master · pinax/pinax-referrals
 
