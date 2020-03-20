@@ -1,6 +1,15 @@
 # Eldarion and Pinax
 
 <!--
+Work in Progress- Pinax Releases
+* [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
+* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
+* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
+
+* [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
+
+https://www.youtube.com/watch?v=q6-zh2ZT9HE | How Eldarion Cloud Boosts Productivity of Development Teams - YouTube
+
 https://deepsource.io/
 htmlcov
 
