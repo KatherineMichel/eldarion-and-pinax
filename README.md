@@ -8,6 +8,7 @@ Work in Progress- Pinax Releases
 
 * [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
 
+
 https://www.youtube.com/watch?v=q6-zh2ZT9HE | How Eldarion Cloud Boosts Productivity of Development Teams - YouTube
 
 https://deepsource.io/
@@ -25,11 +26,7 @@ https://github.com/KatherineMichel/pinax-blog/blob/futurize/pinax/blog/views.py.
 
 https://github.com/pinax-archives/ | pinax-archives
 
-https://pinaxproject.com/pinax/release_process/ | Release Process - Pinax Documentation
 
-https://gist.github.com/KatherineMichel/1877ac1e0bb22e08eae960dc3e1f03bd | Pinax 19.xx
-
-https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md
 
 https://pypi.org/manage/projects/
 https://github.com/pinax/pinax-badges/issues/27
@@ -57,12 +54,6 @@ https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Se
 -->
 
 <!--
-https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
-
-https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
-
-https://github.com/paltman/trying-webpack | paltman/trying-webpack
-
 James and Client
 
 https://jktauber.com/2017/05/31/modelling-derivational-morphology/ | Modelling Derivational Morphology | J. K. Tauber
@@ -80,12 +71,10 @@ https://github.com/eldarion-client/DeepVocabulary/issues/15#event-1388183712 | b
 https://github.com/eldarion-client/DeepVocabulary/milestone/2 | Milestone 2 Milestone
 
 SunoikisisDC
-https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki · GitHub
 https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
 https://www.dh.uni-leipzig.de/wo/sunoikisisdc/ | SunoikisisDC | Digital Humanities
-https://www.youtube.com/watch?v=NFiNYEDxr-0&feature=youtu.be | (1) SunoikisisDC Summer 2018 - Common Session 3 - YouTube
+https://www.youtube.com/watch?v=NFiNYEDxr-0 | (1) SunoikisisDC Summer 2018 - Common Session 3 - YouTube
 https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki
-https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
 
 https://prometheus.io/ | Prometheus - Monitoring system & time series database
 http://www.perseus.tufts.edu/hopper/ | Perseus Digital Library
@@ -102,6 +91,7 @@ https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-di
 https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
 https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
 
+https://scaife-viewer.org/ | The Scaife Viewer Project
 https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
 https://github.com/scaife-viewer
 https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
@@ -175,6 +165,8 @@ Work in Progress- Symposium
 
 <!--
 https://github.com/eldarion/djangocon.us
+
+https://eldarion.com/symposion/ | Symposion Conference Management Software from Eldarion
 
 https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
 
@@ -330,16 +322,21 @@ Warehouse Profiles
 ## Pinax-Related Packages
 
 <!--
-Webpack Versus Browserify
-* [Webpack](https://webpack.js.org)
+Pil/Image
+https://pypi.org/project/Pillow/ | Pillow · PyPI
+https://pillow.readthedocs.io/en/stable/
+https://www.pythonware.com/products/pil/
+https://pypi.org/project/pilkit/
+https://pypi.org/project/django-imagekit/
+
+Test
+https://pypi.org/project/django-test-plus/ | django-test-plus · PyPI
+https://pypi.org/project/django-bootstrap-form/ | django-bootstrap-form · PyPI
+https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
 
 Pinax Related Packages
 https://pypi.org/project/django-friendship/ | django-friendship · PyPI
 https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
-
-https://pypi.org/project/Pillow/ | Pillow · PyPI
-
-https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
 
 https://pypi.org/project/pytz/ | pytz · PyPI
 
@@ -348,6 +345,45 @@ https://pypi.org/simple/markdown/ | Links for Markdown
 https://pypi.org/simple/mock/ | Links for mock
 https://pypi.org/project/required/ | required · PyPI
 https://pypi.org/project/certifi/ | certifi · PyPI
+
+https://github.com/un33k/django-ipware | un33k/django-ipware: A Django application to retrieve client's IP address
+
+Ace and TinyMCE
+https://github.com/ajaxorg/ace
+http://django-tinymce.readthedocs.io/en/latest/ | Welcome to the django-tinymce documentation — django-tinymce 2.3 documentation
+https://www.tinymce.com/docs/get-started/first-steps/ | TinyMCE | 01. Your First Steps
+https://github.com/pinax/pinax-blog/#customizing-admin | pinax/pinax-blog: a blog app for Django
+https://www.tinymce.com/docs/demo/basic-example/ | TinyMCE | Basic Example
+
+https://django-auth-ldap.readthedocs.io/en/1.2.x/ | Django Authentication Using LDAP — django-auth-ldap 1.2.16 documentation
+
+Auth apps
+https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+https://github.com/bennylope/django-organizations | bennylope/django-organizations: Multi-user accounts for Django projects
+https://django-registration.readthedocs.io/en/3.0.1/ | django-registration 3.0.1 — django-registration 3.0.1 documentation
+https://github.com/juanifioren/django-oidc-provider | juanifioren/django-oidc-provider: OpenID Connect and OAuth2 provider implementation for Djangonauts.
+https://www.intenct.nl/projects/django-allauth/ | django-allauth
+https://pypi.org/project/social-auth-app-django/ | social-auth-app-django · PyPI
+https://github.com/python-social-auth/social-core | python-social-auth/social-core: Python Social Auth - Core
+https://pypi.org/simple/django-oidc-provider/ | Links for django-oidc-provider
+https://django-oidc-provider.readthedocs.io/en/latest/sections/examples.html | Examples — django-oidc-provider 0.5.x documentation
+
+Pinax auth stuff
+https://github.com/pinax/pinax-starter-projects/blob/social-auth/Pipfile | pinax-starter-projects/Pipfile at social-auth · pinax/pin ax-starter-projects
+https://github.com/pinax/pinax-identity | pinax/pinax-identity: OpenID Connect with pinax-api helpers
+-->
+
+## JavaScript
+
+Webpack Versus Browserify
+* [Webpack](https://webpack.js.org)
+
+<!--
+https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
+
+https://eldarion.com/blog/2018/10/09/setup-guide-django-vue-webpack/ | Setup Guide to Django + Vue with Webpack — Eldarion Blog
+
+https://github.com/paltman/trying-webpack | paltman/trying-webpack
 -->
 
 ## Release Scripts
