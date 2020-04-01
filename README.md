@@ -1,6 +1,26 @@
 # Eldarion and Pinax
 
 <!--
+Tools
+https://deepsource.io/
+htmlcov
+
+Mine
+https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
+https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
+
+Docs
+https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
+
+https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
+https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
+
+https://github.com/pinax-archives/ | pinax-archives
+
+https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
+
+http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
+
 Work in Progress- Pinax Releases
 * [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
 * [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
@@ -8,11 +28,6 @@ Work in Progress- Pinax Releases
 
 * [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
 
-
-https://www.youtube.com/watch?v=q6-zh2ZT9HE | How Eldarion Cloud Boosts Productivity of Development Teams - YouTube
-
-https://deepsource.io/
-htmlcov
 
 Case Study
 https://github.com/pinax/pinax-referrals/blob/master/pinax/referrals/tests/tests.py | pinax-referrals/tests.py at master · pinax/pinax-referrals
@@ -24,65 +39,25 @@ https://github.com/massware/django-user-accounts/commit/0d9d407b9bd5414f1c5a03b9
 Porting example
 https://github.com/KatherineMichel/pinax-blog/blob/futurize/pinax/blog/views.py.bak | pinax-blog/views.py.bak at futurize · KatherineMichel/pinax-blog
 
-https://github.com/pinax-archives/ | pinax-archives
-
-
-
-https://pypi.org/manage/projects/
-https://github.com/pinax/pinax-badges/issues/27
-https://github.com/pinax/pinax/issues/152
-
-https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
-https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
-
-Mine
-https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
-https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
-
-Docs
-https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
-
-Emmanuel
-https://github.com/pinax/pinax-ratings/pull/47 | Add Template tag tests by kasulani · Pull Request #47 · pinax/pinax-ratings
-
-https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
-
-http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
-
-
 https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
 -->
 
 <!--
 James and Client
 
-https://jktauber.com/2017/05/31/modelling-derivational-morphology/ | Modelling Derivational Morphology | J. K. Tauber
-Eldarion
-https://jktauber.com/2018/03/05/tour-greek-morphology-part-20/ | A Tour of Greek Morphology: Part 20 | J. K. Tauber
-Digital Tolkien
+https://jktauber.com/
+
 https://digitaltolkien.com/welcome-to-digital-tolkien/ | Welcome to Digital Tolkien | Digital Tolkien
-https://buttondown.email/jtauber | Journeyman of Some | Buttondown
 
 https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
 https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
 https://github.com/deep-philology/DeepVocabulary/wiki/Overview
 https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
-https://github.com/eldarion-client/DeepVocabulary/issues/15#event-1388183712 | better document how to get going locally · Issue #15 · eldarion-client/DeepVocabulary
-https://github.com/eldarion-client/DeepVocabulary/milestone/2 | Milestone 2 Milestone
-
-SunoikisisDC
-https://www.youtube.com/watch?v=Jp_99HL-Ymg | SunoikisisDC Summer 2019 - Session 14 - YouTube
-https://www.dh.uni-leipzig.de/wo/sunoikisisdc/ | SunoikisisDC | Digital Humanities
-https://www.youtube.com/watch?v=NFiNYEDxr-0 | (1) SunoikisisDC Summer 2018 - Common Session 3 - YouTube
-https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/The-Scaife-Digital-Library-Viewer | The Scaife Digital Library Viewer · SunoikisisDC/SunoikisisDC-2017-2018 Wiki
 
 https://prometheus.io/ | Prometheus - Monitoring system & time series database
 http://www.perseus.tufts.edu/hopper/ | Perseus Digital Library
 https://github.com/PerseusDL | PerseusDL
 https://twitter.com/PerseusDigLib
-
-"Thrilled that @eldarion is part of a just-announced NEH grant to continue work on the Scaife Viewer."
-https://twitter.com/jtauber/status/1161694116637528064
 
 Scaife
 https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
@@ -95,23 +70,7 @@ https://scaife-viewer.org/ | The Scaife Viewer Project
 https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
 https://github.com/scaife-viewer
 https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
-https://github.com/scaife-viewer/scaife-background-update | scaife-viewer/scaife-background-update
-https://github.com/scaife-viewer/readhomer/issues/13 | (1) sibling extension (e.g. click + above or below lines to load more lines · Issue #13 · scaife-viewer/readhomer
 https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
-https://github.com/eldarion/scaife-skeleton/tree/master/src | scaife-skeleton/src at master · eldarion/scaife-skeleton
-https://github.com/eldarion/scaife-skeleton/pull/38 | WIP: Packaging by paltman · Pull Request #38 · eldarion/scaife-skeleton
-
-https://twitter.com/jtauber/status/1100952669760430081 | James Tauber on Twitter: "You should see the new Skeleton stuff we've been doing for Scaife! And we'll be at parity with DeepReader soon but with the "Fenway" stuff implemented.… https://t.co/GzndJAsQle"
-https://twitter.com/jtauber/status/951742629955371009 | James Tauber on Twitter: "If everyone who uses Perseus 4.0 moves over to Perseus 5.0, it may well be one of the largest (by user count) sites built with @vuejs. There… https://t.co/ENPwiSdRIq"
-https://twitter.com/jtauber/status/910149159470149632 | James Tauber on Twitter: "Thrilled to announce that I'll be leading the development of the next version of @PerseusDigLib with the @eldarion team and others"
-
-https://sourceforge.net/p/epidoc/wiki/Home/ | EpiDoc: Epigraphic Documents in TEI XML / Home / Home
-https://github.com/diyclassics/perseus-experiments/blob/master/Perseus%20Plaintext%20Poetry.ipynb | perseus-experiments/Perseus Plaintext Poetry.ipynb at master · diyclassics/perseus-experiments
-
-http://capitains.org/ | CapiTainS
-https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
-
-https://github.com/ETCBC | Eep Talstra Centre for Bible and Computing
 -->
 
 ## Issues
@@ -121,6 +80,8 @@ https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
 https://github.com/pinax/pinax/tree/adding-npm-guidance
 
 https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
+
+https://github.com/pinax/pinax/issues/152
 
 JavaScript and Node
 https://github.com/substack/node-mkdirp
@@ -133,8 +94,15 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 ## Pinax WIP- Release Docs
 
 Work in Progress- New Release
-* [Pinax 20.xx Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-20.xx)
+* [Pinax 20.XX Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-20.XX)
 * [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
+
+<!--
+https://github.com/pinax/pinax/wiki/How-Pinax-Works
+https://django-user-accounts.readthedocs.io/en/latest/installation.html
+https://pinaxproject.com/pinax/release_process/ | Release Process - Pinax Documentation
+https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md
+-->
 
 ## Pinax WIP- Docs
 
@@ -206,6 +174,10 @@ Work in Progress- Pinax Demo Projects
 * [Eldarion LinkedIn](https://www.linkedin.com/company/eldarion)
 
 ## Services, Past and Present
+
+<!--
+https://www.youtube.com/watch?v=q6-zh2ZT9HE | How Eldarion Cloud Boosts Productivity of Development Teams - YouTube
+-->
 
 Site Care
 * [Eldarion Site Care and Maintenance](http://eldarion.com/consulting/django-site-care)
@@ -374,9 +346,6 @@ https://github.com/pinax/pinax-identity | pinax/pinax-identity: OpenID Connect w
 -->
 
 ## JavaScript
-
-Webpack Versus Browserify
-* [Webpack](https://webpack.js.org)
 
 <!--
 https://eldarion.com/blog/2018/10/23/loading-global-vue-components/ | Loading Global Vue Components — Eldarion Blog
