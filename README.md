@@ -43,10 +43,6 @@ https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Se
 -->
 
 <!--
-James and Client
-
-https://jktauber.com/
-
 https://digitaltolkien.com/welcome-to-digital-tolkien/ | Welcome to Digital Tolkien | Digital Tolkien
 
 https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
