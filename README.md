@@ -87,28 +87,117 @@ https://webpack.js.org/concepts/loaders/ | loaders
 https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
 -->
 
-## Pinax WIP- Release Docs
+## Pinax Docs
 
-Work in Progress- New Release
-* [Pinax 20.XX Proposed Process](https://github.com/pinax/pinax/wiki/Pinax-20.XX)
-* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
+* [Pinax Global Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
+* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
 
 <!--
-https://github.com/pinax/pinax/wiki/How-Pinax-Works
-https://django-user-accounts.readthedocs.io/en/latest/installation.html
-https://pinaxproject.com/pinax/release_process/ | Release Process - Pinax Documentation
-https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md
+Starter project explainer
+https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
 -->
 
 ## Pinax WIP- Docs
 
-Work in Progress- Documentation
-* [Pinax Project Proposed Document Outline](https://github.com/pinax/pinax/wiki/Proposed-Docs-Outline)
+Possible blog posts
+* About release (include info about contributors)
+* About community strategy
+* GitHub Universe blog post
+
+Docs I'm Working On
+* Maintainer Docs
+* [How Pinax Works](https://github.com/pinax/pinax/wiki/How-Pinax-Works)
+* [Pinax Tutorial](https://github.com/KatherineMichel/pinax-tutorial)
+* [Pinax Tutorial Old](https://github.com/KatherineMichel/pinax-tutorial-old)
+* [Pinax Community Strategy](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Community-Plan)
+
+<!--
+https://github.com/pinax/.github/blob/master/CONTRIBUTING.md
+https://github.com/pinax/.github/blob/master/SUPPORT.md
+https://github.com/pinax/.github/tree/master/.github
+https://github.com/pinax/.github/blob/master/.github/PULL_REQUEST_TEMPLATE.md
+https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE
+-->
+
+Release
+* [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
+* [Looking Ahead](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Looking-Ahead)
+* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
+
+Global Docs
 * [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
+* [Pinax Release Process](https://pinaxproject.com/pinax/release_process/)
+* [How Contribute](https://pinaxproject.com/pinax/how_to_contribute/)
 
 Work in Progress- Improve Docs
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
 * [Pinax Stripe Read the Docs](https://pinax-stripe.readthedocs.io) and [Pinax Stripe GitHub](https://github.com/pinax/pinax-stripe)
+
+<!--
+https://django-user-accounts.readthedocs.io/en/latest/installation.html
+-->
+
+
+
+## Pinax Support
+
+* [Pinax Slack Signup](http://slack.pinaxproject.com)
+* [Pinax Slack](https://pinax.slack.com)
+* [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos)
+* [Pinax questions on Stack Overflow](https://stackoverflow.com/questions/tagged/pinax)
+
+<!--
+Watch- Pinax Hangout
+https://www.youtube.com/watch?v=iun7y4hz0gg | Pinax Hangout September 2015: django-user-accounts - YouTube
+
+Pinax Hangouts
+https://plus.google.com/115295556556577946862/posts
+http://blog.pinaxproject.com/2016/04/19/quick-slack-guide/
+http://blog.pinaxproject.com/2015/06/09/how-we-built-blog/
+https://www.youtube.com/watch?v=SCGrw1eTRhU
+https://plus.google.com/events/c6js77tke600p4ohsablct0bp5o
+http://blog.pinaxproject.com/2015/10/12/recap-september-pinax-hangout/
+http://blog.pinaxproject.com/2015/11/25/recap-november-pinax-hangout/
+http://blog.pinaxproject.com/2016/01/27/recap-january-pinax-hangout/
+http://blog.pinaxproject.com/2016/02/09/pinax-hangout-february-2016/
+-->
+
+## Pinax Contributing
+
+How to Contribute
+* [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
+* [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
+
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+
+Work in Progress- Screencasts
+* [Screencasts GitHub](https://github.com/pinax/screencasts)
+
+<!--
+Onboarding- Ways to Get Involved
+* Identify up-for-grabs issues
+* Use tutorial
+* Read README docs
+
+Community
+http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+
+Onboarding
+https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
+
+http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
+
+https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
+https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+
+Pinax Developer Profiles
+* [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
+-->
+
 
 ## Pinax WIP- DUA
 
@@ -132,12 +221,16 @@ https://github.com/eldarion/djangocon.us
 
 https://eldarion.com/symposion/ | Symposion Conference Management Software from Eldarion
 
-https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
-
+Registrasion
 https://registrasion.readthedocs.io/en/releases-0.1/ | Registrasion — Registrasion 0.1a1 documentation
+
+Docs
 https://github.com/pinax/symposion/tree/master/docs | symposion/docs at master · pinax/symposion
 Symposion Proposals App
+https://github.com/pinax/symposion/wiki/Apps-Phase-Grid
+
 https://symposion.readthedocs.io/en/latest/ | Pinax Symposion — Pinax Symposion 0.5dev documentation
+
 http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
 https://web.archive.org/web/20170610082834/http://symposion.readthedocs.io/en/latest/proposals.html | Proposals App — Pinax Symposion 0.5dev documentation
 -->
@@ -205,75 +298,6 @@ Gondor
 
 * [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
 * [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
-
-## Pinax Docs
-
-* [Pinax Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
-* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
-
-<!--
-Starter project explainer
-https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
--->
-
-## Pinax Support
-
-* [Pinax Slack Signup](http://slack.pinaxproject.com)
-* [Pinax Slack](https://pinax.slack.com)
-* [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos)
-* [Pinax questions on Stack Overflow](https://stackoverflow.com/questions/tagged/pinax)
-
-<!--
-Watch- Pinax Hangout
-https://www.youtube.com/watch?v=iun7y4hz0gg | Pinax Hangout September 2015: django-user-accounts - YouTube
-
-Pinax Hangouts
-https://plus.google.com/115295556556577946862/posts
-http://blog.pinaxproject.com/2016/04/19/quick-slack-guide/
-http://blog.pinaxproject.com/2015/06/09/how-we-built-blog/
-https://www.youtube.com/watch?v=SCGrw1eTRhU
-https://plus.google.com/events/c6js77tke600p4ohsablct0bp5o
-http://blog.pinaxproject.com/2015/10/12/recap-september-pinax-hangout/
-http://blog.pinaxproject.com/2015/11/25/recap-november-pinax-hangout/
-http://blog.pinaxproject.com/2016/01/27/recap-january-pinax-hangout/
-http://blog.pinaxproject.com/2016/02/09/pinax-hangout-february-2016/
--->
-
-## Pinax Contributing
-
-How to Contribute
-* [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
-* [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
-
-Example First-Timers Info
-* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-
-Work in Progress- Screencasts
-* [Screencasts GitHub](https://github.com/pinax/screencasts)
-
-<!--
-Onboarding- Ways to Get Involved
-* Identify up-for-grabs issues
-* Use tutorial
-* Read README docs
-
-Community
-http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-
-Onboarding
-https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
-
-http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
-
-https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
-https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
-
-Pinax Developer Profiles
-* [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
--->
 
 ## PyPI and Pinax Packages
 
