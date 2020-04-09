@@ -107,7 +107,7 @@ Example blog posts
 http://blog.pinaxproject.com/2017/10/26/pinax-stripe-400-release-coming-soon/
 http://blog.pinaxproject.com/2016/02/15/updates-pinax-starter-projects/
 http://blog.pinaxproject.com/2015/12/14/release-roundup-to-kick-off-december/
--->:
+-->
 
 Docs I'm Working On
 * Maintainer Docs
@@ -117,11 +117,17 @@ Docs I'm Working On
 * [Pinax Community Strategy](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Community-Plan)
 
 <!--
-https://github.com/pinax/screencasts/issues | Issues · pinax/screencasts
-
 Tutorial
 https://github.com/KatherineMichel/pinax-tutorial/blob/master/what_is_pinax.md | pinax-tutorial/what_is_pinax.md at master · KatherineMichel/pinax-tutorial
 https://github.com/KatherineMichel/pinax-tutorial/blob/master/SUMMARY.md | pinax-tutorial/SUMMARY.md at master · KatherineMichel/pinax-tutorial
+
+Community
+http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+
+http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
+
+https://github.com/pinax/screencasts/issues | Issues · pinax/screencasts
 
 https://github.com/pinax/.github/blob/master/CONTRIBUTING.md
 https://github.com/pinax/.github/blob/master/SUPPORT.md
@@ -194,14 +200,7 @@ Onboarding- Ways to Get Involved
 * Use tutorial
 * Read README docs
 
-Community
-http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-
-Onboarding
-https://github.com/pinax/pinax/blob/master/docs/how_to_contribute.md | pinax/how_to_contribute.md at master · pinax/pinax
-
-http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
+Revisit docs talk
 
 https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
 https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
