@@ -9,13 +9,8 @@ Mine
 https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
 https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
 
-Docs
-https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
-
 https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
 https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
-
-https://github.com/pinax-archives/ | pinax-archives
 
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
 
@@ -93,6 +88,9 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 * [Pinax Wiki](https://github.com/pinax/pinax/wiki)
 
 <!--
+Docs
+https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
+
 Starter project explainer
 https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
 -->
@@ -104,6 +102,13 @@ Possible blog posts
 * About community strategy
 * GitHub Universe blog post
 
+<!--
+Example blog posts
+http://blog.pinaxproject.com/2017/10/26/pinax-stripe-400-release-coming-soon/
+http://blog.pinaxproject.com/2016/02/15/updates-pinax-starter-projects/
+http://blog.pinaxproject.com/2015/12/14/release-roundup-to-kick-off-december/
+-->:
+
 Docs I'm Working On
 * Maintainer Docs
 * [How Pinax Works](https://github.com/pinax/pinax/wiki/How-Pinax-Works)
@@ -112,6 +117,12 @@ Docs I'm Working On
 * [Pinax Community Strategy](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Community-Plan)
 
 <!--
+https://github.com/pinax/screencasts/issues | Issues · pinax/screencasts
+
+Tutorial
+https://github.com/KatherineMichel/pinax-tutorial/blob/master/what_is_pinax.md | pinax-tutorial/what_is_pinax.md at master · KatherineMichel/pinax-tutorial
+https://github.com/KatherineMichel/pinax-tutorial/blob/master/SUMMARY.md | pinax-tutorial/SUMMARY.md at master · KatherineMichel/pinax-tutorial
+
 https://github.com/pinax/.github/blob/master/CONTRIBUTING.md
 https://github.com/pinax/.github/blob/master/SUPPORT.md
 https://github.com/pinax/.github/tree/master/.github
@@ -120,6 +131,7 @@ https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE
 -->
 
 Release
+* [App Release Process](https://github.com/pinax/pinax/wiki/App-Release-Process)
 * [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
 * [Looking Ahead](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Looking-Ahead)
 * [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
@@ -291,6 +303,7 @@ Gondor
 * [Pinax](http://pinaxproject.com)
 * [Pinax Wikipedia](https://en.wikipedia.org/wiki/Pinax)
 * [Pinax GitHub](https://github.com/pinax)
+* [Pinax Archives GitHub](https://github.com/pinax-archives/)
 * [Pinax Twitter](https://twitter.com/pinaxproject)
 * [Pinax Blog](http://blog.pinaxproject.com) and [Pinax Medium](https://medium.com/pinax)
 
