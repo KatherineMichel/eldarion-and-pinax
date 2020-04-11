@@ -1,6 +1,20 @@
 # Eldarion and Pinax
 
 <!--
+Pinax
+https://help.github.com/en/github/managing-your-work-on-github/using-search-to-filter-issues-and-pull-requests | Using search to filter issues and pull requests - GitHub Help
+https://github.com/search?o=desc&q=org%3Apinax+state%3Aopen+type%3Apr&s=created&type=Issues | Search · org:pinax state:open type:pr
+https://github.com/pinax/pinax/issues/152 | Pinax tutorial for installation not working on windows · Issue #152 · pinax/pinax
+
+https://github.com/pinax/pinax-starter-projects/tree/account | pinax/pinax-starter-projects at account
+https://github.com/pinax/django-user-accounts/issues/314 | Installation guide ends up to database error during migrate · Issue #314 · pinax/django-user-accounts
+https://github.com/pinax/django-user-accounts/pulls | Pull Requests · pinax/django-user-accounts
+https://github.com/pinax/pinax-calendars/pull/16/files | Update Python and Django Support by mfonism · Pull Request #16 · pinax/pinax-calendars
+https://github.com/pinax/pinax/issues/152 | Pinax tutorial for installation not working on windows · Issue #152 · pinax/pinax
+https://github.com/django-xxx/django-six | django-xxx/django-six: Django-six — Django compatibility library
+https://stackoverflow.com/questions/59524941/modulenotfounderror-no-module-named-django-utils-six | python - ModuleNotFoundError: No module named 'django.utils.six' - Stack Overflow
+https://github.com/pinax/pinax-blog/pull/129 | Update Python and Django Support by mfonism · Pull Request #129 · pinax/pinax-blog
+
 Tools
 https://deepsource.io/
 htmlcov
