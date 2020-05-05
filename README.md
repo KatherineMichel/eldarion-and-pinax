@@ -82,7 +82,7 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 
 Possible blog posts
 * About release (include info about contributors)
-* About community strategy
+* About Pinax community plan
 * GitHub Universe blog post
 * GitHub Tips... useful and lesser known
 * Top 100 Resources
