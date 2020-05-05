@@ -84,7 +84,8 @@ Possible blog posts
 * About release (include info about contributors)
 * About community strategy
 * GitHub Universe blog post
-* GitHub Tips
+* GitHub Tips... useful and lesser known
+* Top 100 Resources
 
 Blog Post
 * [Looking Ahead](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Looking-Ahead)
@@ -126,6 +127,7 @@ https://github.com/pinax/.github/blob/master/SUPPORT.md
 https://github.com/pinax/.github/blob/master/MAINTAINERS.md
 https://github.com/pinax/.github/blob/master/RELEASE.md
 
+Improve templates... ?
 https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/config.yml
 https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/question.md
 https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/feature_request.md
