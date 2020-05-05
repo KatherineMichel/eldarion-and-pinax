@@ -80,23 +80,14 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 
 ## Pinax Docs
 
-* [Pinax Global Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
-* [Pinax Wiki](https://github.com/pinax/pinax/wiki)
-
-<!--
-Docs
-https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
-
-Starter project explainer
-https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
--->
-
-## Pinax WIP- Docs
-
 Possible blog posts
 * About release (include info about contributors)
 * About community strategy
 * GitHub Universe blog post
+* GitHub Tips
+
+Blog Post
+* [Looking Ahead](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Looking-Ahead)
 
 <!--
 Example blog posts
@@ -105,18 +96,45 @@ http://blog.pinaxproject.com/2016/02/15/updates-pinax-starter-projects/
 http://blog.pinaxproject.com/2015/12/14/release-roundup-to-kick-off-december/
 -->
 
-Docs I'm Working On
-* Maintainer Docs
-* [How Pinax Works](https://github.com/pinax/pinax/wiki/How-Pinax-Works)
+Pinax Global Docs
+* [Pinax Global Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
+
+Pinax Global Docs- To Update
+* [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
+* [Pinax Release Process](https://pinaxproject.com/pinax/release_process/)
+* [How Contribute](https://pinaxproject.com/pinax/how_to_contribute/)
+
+Pinax Tutorial
 * [Pinax Tutorial](https://github.com/KatherineMichel/pinax-tutorial)
 * [Pinax Tutorial Old](https://github.com/KatherineMichel/pinax-tutorial-old)
-* [Pinax Community Strategy](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Community-Plan)
 
 <!--
 Tutorial
-https://github.com/KatherineMichel/pinax-tutorial/blob/master/what_is_pinax.md | pinax-tutorial/what_is_pinax.md at master · KatherineMichel/pinax-tutorial
 https://github.com/KatherineMichel/pinax-tutorial/blob/master/SUMMARY.md | pinax-tutorial/SUMMARY.md at master · KatherineMichel/pinax-tutorial
+-->
 
+Pinax Community Plan
+* [Pinax Community Plan](https://github.com/pinax/.github/blob/master/MAINTAINERS.md#pinax-community-plan)
+
+<!--
+Global Community Health File Repo Files
+https://github.com/pinax/.github/blob/master/CODE_OF_CONDUCT.md
+
+https://github.com/pinax/.github/blob/master/CONTRIBUTING.md
+https://github.com/pinax/.github/blob/master/SUPPORT.md
+
+https://github.com/pinax/.github/blob/master/MAINTAINERS.md
+https://github.com/pinax/.github/blob/master/RELEASE.md
+
+https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/config.yml
+https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/question.md
+https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/feature_request.md
+https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/bug_report.md
+https://github.com/pinax/.github/blob/master/.github/PULL_REQUEST_TEMPLATE.md
+-->
+
+
+<!--
 Community
 http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
@@ -124,24 +142,7 @@ http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-doc
 http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
 
 https://github.com/pinax/screencasts/issues | Issues · pinax/screencasts
-
-https://github.com/pinax/.github/blob/master/CONTRIBUTING.md
-https://github.com/pinax/.github/blob/master/SUPPORT.md
-https://github.com/pinax/.github/tree/master/.github
-https://github.com/pinax/.github/blob/master/.github/PULL_REQUEST_TEMPLATE.md
-https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE
 -->
-
-Release
-* [App Release Process](https://github.com/pinax/pinax/wiki/App-Release-Process)
-* [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
-* [Looking Ahead](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Looking-Ahead)
-* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
-
-Global Docs
-* [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
-* [Pinax Release Process](https://pinaxproject.com/pinax/release_process/)
-* [How Contribute](https://pinaxproject.com/pinax/how_to_contribute/)
 
 Work in Progress- Improve Docs
 * [Django User Accounts Read the Docs](http://django-user-accounts.readthedocs.io) and [Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)
@@ -151,14 +152,19 @@ Work in Progress- Improve Docs
 https://django-user-accounts.readthedocs.io/en/latest/installation.html
 -->
 
+<!--
+Docs
+https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
 
+Starter project explainer
+https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
+-->
 
-## Pinax Support
+Work in Progress- Screencasts
+* [Screencasts GitHub](https://github.com/pinax/screencasts)
 
-* [Pinax Slack Signup](http://slack.pinaxproject.com)
-* [Pinax Slack](https://pinax.slack.com)
+Pinax Hangouts
 * [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos)
-* [Pinax questions on Stack Overflow](https://stackoverflow.com/questions/tagged/pinax)
 
 <!--
 Watch- Pinax Hangout
@@ -187,9 +193,6 @@ Example First-Timers Info
 * [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
 
-Work in Progress- Screencasts
-* [Screencasts GitHub](https://github.com/pinax/screencasts)
-
 <!--
 Onboarding- Ways to Get Involved
 * Identify up-for-grabs issues
@@ -205,6 +208,26 @@ Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
 -->
 
+## Pinax Clients and Orgs
+
+* [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
+* [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
+
+## Pinax Release
+
+Release
+* [Pinax Wiki](https://github.com/pinax/pinax/wiki/)
+* [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
+* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
+
+## Pinax Support
+
+Slack
+* [Pinax Slack Signup](http://slack.pinaxproject.com)
+* [Pinax Slack](https://pinax.slack.com)
+
+Stack Overflow
+* [Pinax Questions on Stack Overflow](https://stackoverflow.com/questions/tagged/pinax)
 
 ## Pinax WIP- DUA
 
@@ -302,11 +325,6 @@ Gondor
 * [Pinax Twitter](https://twitter.com/pinaxproject)
 * [Pinax Blog](http://blog.pinaxproject.com) and [Pinax Medium](https://medium.com/pinax)
 
-## Pinax Clients and Orgs
-
-* [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
-* [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
-
 ## PyPI and Pinax Packages
 
 Pinax Packages
@@ -393,8 +411,6 @@ Distribution
 * [Pinax Distributions Script](https://github.com/pinax/pinax/blob/master/distributions.json)
 
 <!--
-https://github.com/pinax-archives/
-
 https://github.com/cndn/intelligent-code-completion/blob/master/raw_data/45600_check.py| intelligent-code-completion/45600_check.py at edb80a083f481aa30897d5cb91c2bc53708b9ec5 · cndn/intelligent-code-completion
 -->
 
