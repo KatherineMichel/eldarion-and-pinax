@@ -1,6 +1,12 @@
 # Eldarion and Pinax
 
 <!--
+https://twitter.com/jtauber/status/1255558701261262850
+https://twitter.com/RippulCorp
+https://www.flake8rules.com/rules/W504.html
+https://github.com/pinax/pinax-stripe/pull/620
+
+
 Tools
 https://deepsource.io/
 htmlcov
