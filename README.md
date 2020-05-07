@@ -157,6 +157,8 @@ https://github.com/pinax/.github/blob/master/.github/PULL_REQUEST_TEMPLATE.md
 -->
 
 <!--
+https://katherinemichel.github.io/pinax/how-tos/release-starter-project/
+
 Starter project explainer
 https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
 -->
@@ -167,6 +169,37 @@ Work in Progress- Improve Docs
 
 <!--
 https://django-user-accounts.readthedocs.io/en/latest/installation.html
+
+index.md
+
+what_is_pinax.md
+quick_start.md
+history.md
+faq.md
+
+pinax_starter_projects.md
+pinax_apps.md
+code_of_conduct.md
+
+Community
+Contributing
+Release
+
+in_the_wild.md
+
+
+Integrate with global community health file repo
+how_to_contribute.md
+ways_to_contribute.md
+release_process.md
+release-starter-project.md
+
+Tutorial
+how-tos
+ldap.md
+deploy-to-heroku.md
+
+"Please create issues or pull-requests in that repo if you have any suggestions, corrections, or contributions."
 -->
 
 ## Pinax Contributing
@@ -184,6 +217,13 @@ https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching
 
 http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
 -->
+
+## Pinax Release
+
+Release
+* [Pinax Wiki](https://github.com/pinax/pinax/wiki/)
+* [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
+* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
 
 ## Screencasts
 
@@ -227,13 +267,6 @@ http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The P
 Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
 -->
-
-## Pinax Release
-
-Release
-* [Pinax Wiki](https://github.com/pinax/pinax/wiki/)
-* [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
-* [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
 
 ## Pinax Support
 
