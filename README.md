@@ -86,6 +86,17 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 
 ## Pinax Docs
 
+<!--
+Docs
+https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
+
+Revisit docs talk
+Daniel
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+-->
+
+### Blog Posts
+
 Possible blog posts
 * About release (include info about contributors)
 * About Pinax community plan
@@ -103,6 +114,8 @@ http://blog.pinaxproject.com/2016/02/15/updates-pinax-starter-projects/
 http://blog.pinaxproject.com/2015/12/14/release-roundup-to-kick-off-december/
 -->
 
+### TODO
+
 Pinax Global Docs
 * [Pinax Global Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
 
@@ -110,12 +123,14 @@ Pinax Global Docs- To Update
 * [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
 * [Pinax Release Process](https://pinaxproject.com/pinax/release_process/)
 * [How Contribute](https://pinaxproject.com/pinax/how_to_contribute/)
+* [Ways to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute)
 
 Pinax Tutorial
 * [Pinax Tutorial](https://github.com/KatherineMichel/pinax-tutorial)
 * [Pinax Tutorial Old](https://github.com/KatherineMichel/pinax-tutorial-old)
 
 <!--
+Add to blurb
 Tutorial
 https://github.com/KatherineMichel/pinax-tutorial/blob/master/SUMMARY.md | pinax-tutorial/SUMMARY.md at master · KatherineMichel/pinax-tutorial
 -->
@@ -141,15 +156,9 @@ https://github.com/pinax/.github/tree/master/.github/ISSUE_TEMPLATE/bug_report.m
 https://github.com/pinax/.github/blob/master/.github/PULL_REQUEST_TEMPLATE.md
 -->
 
-
 <!--
-Community
-http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-
-http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
-
-https://github.com/pinax/screencasts/issues | Issues · pinax/screencasts
+Starter project explainer
+https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
 -->
 
 Work in Progress- Improve Docs
@@ -160,13 +169,23 @@ Work in Progress- Improve Docs
 https://django-user-accounts.readthedocs.io/en/latest/installation.html
 -->
 
-<!--
-Docs
-https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
+## Pinax Contributing
 
-Starter project explainer
-https://github.com/pinax/pinax/blob/61ce21e7bb4e9398bf5be600ac1ddb15936b88a5/docs/pinax_starter_projects.md
+How to Contribute to Pinax Blog Post
+* [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
+* [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+
+<!--
+Onboarding- More Ways to Get Involved
+* Identify up-for-grabs issues
+
+https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
+https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+
+http://blog.pinaxproject.com/2016/04/20/why-contribute-pinax/
 -->
+
+## Screencasts
 
 Work in Progress- Screencasts
 * [Screencasts GitHub](https://github.com/pinax/screencasts)
@@ -175,6 +194,8 @@ Pinax Hangouts
 * [Pinax Hangouts](https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ/videos)
 
 <!--
+https://github.com/pinax/screencasts/issues | Issues · pinax/screencasts
+
 Watch- Pinax Hangout
 https://www.youtube.com/watch?v=iun7y4hz0gg | Pinax Hangout September 2015: django-user-accounts - YouTube
 
@@ -190,36 +211,22 @@ http://blog.pinaxproject.com/2016/01/27/recap-january-pinax-hangout/
 http://blog.pinaxproject.com/2016/02/09/pinax-hangout-february-2016/
 -->
 
-## Pinax Contributing
+## Community
 
-How to Contribute
-* [How to Contribute](http://pinaxproject.com/pinax/how_to_contribute)
-* [How to Contribute Google Doc](https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit)
+Pinax Clients and Orgs
+* [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
+* [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
 
 Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels)
 
 <!--
-Onboarding- Ways to Get Involved
-* Identify up-for-grabs issues
-* Use tutorial
-* Read README docs
-
-Revisit docs talk
-
-https://github.com/search?utf8=%E2%9C%93&q=org%3Apinax+label%3A%22up-for-grabs%22&type= | Search · org:pinax label:"up-for-grabs"
-https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+http://blog.pinaxproject.com/section/community/ | The Pinax Project Blog | The Pinax Project Blog
 
 Pinax Developer Profiles
 * [Pinax Developer Profiles](https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform)
 -->
-
-## Pinax Clients and Orgs
-
-* [Companies Working with Pinax](http://pinaxproject.com/pinax/companies_working_with_pinax)
-* [Pinax In the Wild](http://pinaxproject.com/pinax/in_the_wild)
 
 ## Pinax Release
 
