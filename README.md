@@ -84,6 +84,11 @@ https://webpack.js.org/concepts/loaders/ | loaders
 https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
 -->
 
+## Trello
+
+* [Company Call Ideas Trello Board](https://trello.com/b/nrvZIVw1/company-call-ideas)
+* [Scaife Digital Sira Trello Board](https://trello.com/b/JybqR7Bh/scaife-digital-sira)
+
 ## Pinax Docs
 
 <!--
@@ -224,6 +229,11 @@ Release
 * [Pinax Wiki](https://github.com/pinax/pinax/wiki/)
 * [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
 * [Historical Release Links](https://github.com/pinax/pinax/wiki/Historical-Release-Links)
+
+<!--
+Pinax 18.01 Release Overview
+Most updates are explained in [Converting to CircleCi and Codecov](https://github.com/pinax/pinax/wiki/Converting-to-CircleCi-and-Codecov) and [Upgrading app for Django v2.0](https://github.com/pinax/pinax/wiki/Upgrading-app-for-Django-v2.0)
+-->
 
 ## Screencasts
 
