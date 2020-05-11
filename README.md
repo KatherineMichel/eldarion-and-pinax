@@ -6,6 +6,9 @@ https://twitter.com/RippulCorp
 https://www.flake8rules.com/rules/W504.html
 https://github.com/pinax/pinax-stripe/pull/620
 
+Pinax-general
+https://twitter.com/paltman/status/911050310348677120 | Patrick Altman on Twitter: "What do you think about all of a project’s documentation living in an indexed and comprehensive README vs a docs site? #opensource"
+https://twitter.com/paltman/status/911070277496426496 | Patrick Altman on Twitter: "Just a few of the new app badges @pinaxproject apps are getting. Can you guess which badge goes with which app? https://t.co/U0slbxR9Tq"
 
 Tools
 https://deepsource.io/
