@@ -12,6 +12,22 @@ https://mobile.twitter.com/aaronbassett/status/1248353221678116864
 Important- Recent Activity
 https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
 
+https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
+
+dj3
+https://github.com/d3/d3/wiki
+https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
+https://guides.github.com/features/wikis/
+https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
+https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+
 https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
 https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
