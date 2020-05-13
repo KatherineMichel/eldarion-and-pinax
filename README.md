@@ -1,6 +1,14 @@
 # Eldarion and Pinax
 
 <!--
+https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
+https://pinax.slack.com/archives/C04R5AQU6/p1586806912037400
+
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+https://github.com/pinax/django-flag/pull/14 | Update to 18.01 by hramezani · Pull Request #14 · pinax/django-flag
+
 https://twitter.com/jtauber/status/1255558701261262850
 https://twitter.com/RippulCorp
 https://www.flake8rules.com/rules/W504.html
