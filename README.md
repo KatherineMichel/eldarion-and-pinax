@@ -1,6 +1,8 @@
 # Eldarion and Pinax
 
 <!--
+https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
+
 https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
 https://pinax.slack.com/archives/C04R5AQU6/p1586806912037400
 
