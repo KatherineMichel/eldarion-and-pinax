@@ -1,6 +1,17 @@
 # Eldarion and Pinax
 
 <!--
+GitHub Tip
+https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+
+https://pypi.org/manage/projects/
+
+https://github.com/watching
+https://mobile.twitter.com/aaronbassett/status/1248353221678116864
+
+Important- Recent Activity
+https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
+
 https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
 https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
