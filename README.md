@@ -109,19 +109,25 @@ https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton
 ## Issues
 
 <!--
-https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
-https://github.com/pinax/pinax/tree/adding-npm-guidance
+Important!
+Windows problem
+https://github.com/pinax/pinax/issues/152 | Pinax tutorial for installation not working on windows · Issue #152 · pinax/pinax
 
 https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
-
-https://github.com/pinax/pinax/issues/152
-
 JavaScript and Node
 https://github.com/substack/node-mkdirp
 https://www.npmjs.com/package/rimraf
 https://github.com/isaacs/rimraf
 https://webpack.js.org/concepts/loaders/ | loaders
 https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Transparently use webpack with django
+
+Important!
+Installation guidance
+https://pinax.slack.com/archives/C04R5AQU6/p1586806912037400
+https://github.com/pinax/pinax-starter-projects/tree/account | pinax/pinax-starter-projects at account
+
+https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
+https://github.com/pinax/pinax/tree/adding-npm-guidance
 -->
 
 ## Trello
@@ -153,6 +159,8 @@ Blog Post
 * [Looking Ahead](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Looking-Ahead)
 
 <!--
+First time contributors, special features, major contributors
+
 Example blog posts
 http://blog.pinaxproject.com/2017/10/26/pinax-stripe-400-release-coming-soon/
 http://blog.pinaxproject.com/2016/02/15/updates-pinax-starter-projects/
@@ -163,6 +171,10 @@ http://blog.pinaxproject.com/2015/12/14/release-roundup-to-kick-off-december/
 
 Pinax Global Docs
 * [Pinax Global Docs GitHub](https://github.com/pinax/pinax/tree/master/docs)
+
+<!--
+https://github.com/pinax/pinax/tree/20.xx-release-docs-refresh/docs | pinax/docs at 20.xx-release-docs-refresh · pinax/pinax
+-->
 
 Pinax Global Docs- To Update
 * [Pinax Project FAQs](http://pinaxproject.com/pinax/faq)
@@ -189,6 +201,8 @@ https://github.com/pinax/.github/blob/master/CODE_OF_CONDUCT.md
 
 https://github.com/pinax/.github/blob/master/CONTRIBUTING.md
 https://github.com/pinax/.github/blob/master/SUPPORT.md
+
+https://github.com/pinax/.github/blob/master/COMMUNITY_PLAN.md
 
 https://github.com/pinax/.github/blob/master/MAINTAINERS.md
 https://github.com/pinax/.github/blob/master/RELEASE.md
@@ -242,6 +256,8 @@ release-starter-project.md
 Tutorial
 how-tos
 ldap.md
+
+Casey's tutorial
 deploy-to-heroku.md
 
 "Please create issues or pull-requests in that repo if you have any suggestions, corrections, or contributions."
