@@ -466,15 +466,11 @@ https://pypi.org/project/django-test-plus/ | django-test-plus · PyPI
 https://pypi.org/project/django-bootstrap-form/ | django-bootstrap-form · PyPI
 https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
 
-Pinax Related Packages
-https://pypi.org/project/django-friendship/ | django-friendship · PyPI
-https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
-
 https://pypi.org/project/pytz/ | pytz · PyPI
-
-https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
 https://pypi.org/simple/markdown/ | Links for Markdown
 https://pypi.org/simple/mock/ | Links for mock
+
+https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
 https://pypi.org/project/required/ | required · PyPI
 https://pypi.org/project/certifi/ | certifi · PyPI
 
@@ -503,6 +499,10 @@ https://django-oidc-provider.readthedocs.io/en/latest/sections/examples.html | E
 Pinax auth stuff
 https://github.com/pinax/pinax-starter-projects/blob/social-auth/Pipfile | pinax-starter-projects/Pipfile at social-auth · pinax/pin ax-starter-projects
 https://github.com/pinax/pinax-identity | pinax/pinax-identity: OpenID Connect with pinax-api helpers
+
+Pinax Related Packages
+https://pypi.org/project/django-friendship/ | django-friendship · PyPI
+https://github.com/marksweb/django-bleach/ | marksweb/django-bleach: Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that makes using bleach extremely easy.
 -->
 
 ## JavaScript
