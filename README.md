@@ -1,6 +1,18 @@
 # Eldarion and Pinax
 
 <!--
+https://github.com/asottile/pyupgrade
+
+Django
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+
+`from __future__ import`
+
+New features
+f-strings
+type checking
+
 GitHub Tip
 https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
 
