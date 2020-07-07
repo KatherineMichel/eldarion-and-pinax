@@ -1,10 +1,26 @@
 # Eldarion and Pinax
 
 <!--
+https://pypi.org/manage/projects/
+
+
+https://twitter.com/paltman/status/1051682302185664512 | Patrick Altman on Twitter: "For me, it was picking something to build and using the Django documentation which is amazing. Beyond that, getting involved in open source Django projects, like @pinaxproject. It really is an awesome and welcoming community.… https://t.co/Kbv0a9v5sO"
+https://twitter.com/paltman/status/911050310348677120 | Patrick Altman on Twitter: "What do you think about all of a project’s documentation living in an indexed and comprehensive README vs a docs site? #opensource"
+https://twitter.com/paltman/status/911070277496426496 | Patrick Altman on Twitter: "Just a few of the new app badges @pinaxproject apps are getting. Can you guess which badge goes with which app? https://t.co/U0slbxR9Tq"
+
+https://twitter.com/mikeal/status/1270741335893356546 | Mikeal Rogers on Twitter: "It’s important for the health of programming ecosystems that a notable minority of programmers code with little to no tools. When the ecosystem becomes too homogenous and tool dependent programmers aren’t required to make things as simple or obvious to other consumers." / Twitter
+
+
+https://gist.github.com/jtauber/
+https://www.youtube.com/channel/UCs6LjlDRHaUX_YEwmprJ_ow | James Tauber - YouTube
+https://buttondown.email/jtauber | Journeyman of Some | Buttondown
+
+
 https://github.com/asottile/pyupgrade
 
 Django
-https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/ | Django 3.0 Released | Weblog | Django
+https://docs.djangoproject.com/en/dev/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
 https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
 
 `from __future__ import`
@@ -13,16 +29,16 @@ New features
 f-strings
 type checking
 
+
 GitHub Tip
 https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
-
-https://pypi.org/manage/projects/
 
 https://github.com/watching
 https://mobile.twitter.com/aaronbassett/status/1248353221678116864
 
 Important- Recent Activity
 https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
+
 
 https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
 
@@ -40,24 +56,25 @@ Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
 
+Release
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+
+
+
 https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
 https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
 https://pinax.slack.com/archives/C04R5AQU6/p1586806912037400
 
-https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
-https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
-
 https://github.com/pinax/django-flag/pull/14 | Update to 18.01 by hramezani · Pull Request #14 · pinax/django-flag
+https://github.com/pinax/django-flag/issues/11 | doesn't work with newer Django · Issue #11 · pinax/django-flag
 
 https://twitter.com/jtauber/status/1255558701261262850
 https://twitter.com/RippulCorp
 https://www.flake8rules.com/rules/W504.html
 https://github.com/pinax/pinax-stripe/pull/620
-
-Pinax-general
-https://twitter.com/paltman/status/911050310348677120 | Patrick Altman on Twitter: "What do you think about all of a project’s documentation living in an indexed and comprehensive README vs a docs site? #opensource"
-https://twitter.com/paltman/status/911070277496426496 | Patrick Altman on Twitter: "Just a few of the new app badges @pinaxproject apps are getting. Can you guess which badge goes with which app? https://t.co/U0slbxR9Tq"
 
 Tools
 https://deepsource.io/
@@ -91,17 +108,20 @@ https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Se
 -->
 
 
-<!--
-Classics
-https://en.wikipedia.org/wiki/J._R._R._Tolkien | J. R. R. Tolkien - Wikipedia
-https://en.wikipedia.org/wiki/Johannes_Gutenberg | Johannes Gutenberg - Wikipedia
-https://en.wikipedia.org/wiki/Homer | Homer - Wikipedia
-https://en.wikipedia.org/wiki/The_Hobbit | The Hobbit - Wikipedia
-https://www.patreon.com/user?u=4328287 | David Chamberlain is creating "Reading Homer": an audio recording of the Iliad and Odyssey | Patreon
+## Digital Humanities
 
-https://homermultitext.github.io/se2020/ | Home page | se2020
-https://homermultitext.github.io/se2020/today/ | *Today | se2020
-http://www.homermultitext.org/about/ | About the Homer Multitext | The Homer Multitext project
+<!--
+Kubernetes
+https://kubernetes.io/docs/concepts/cluster-administration/federation/ | Federation | Kubernetes
+https://cloud.google.com/kubernetes-engine/ | Google Kubernetes Engine  |  Kubernetes Engine  |  Google Cloud
+https://cloud.google.com/bigquery/docs/interacting-with-bigquery | Introduction to Interacting with BigQuery  |  BigQuery  |  Google Cloud
+http://dhworkbench.com/ | DH Workbench
+big query data studio - Google Search
+https://en.wikipedia.org/wiki/BigQuery | BigQuery - Wikipedia
+https://cloud.google.com/bigquery/what-is-bigquery | What is BigQuery?  |  BigQuery  |  Google Cloud
+https://aws.amazon.com/redshift/ | Amazon Redshift - Amazon Web Services
+https://grafana.com/ | Grafana - The open platform for analytics and monitoring
+https://www.geckoboard.com/integrations/google-analytics/ | Google Analytics Dashboard | Geckoboard
 
 https://graphql.org/
 Atlas Server
@@ -149,6 +169,18 @@ https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary
 https://github.com/deep-philology/DeepVocabulary/wiki/Overview
 https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
 https://github.com/deep-reader/DeepReader
+
+
+Classics
+https://en.wikipedia.org/wiki/J._R._R._Tolkien | J. R. R. Tolkien - Wikipedia
+https://en.wikipedia.org/wiki/Johannes_Gutenberg | Johannes Gutenberg - Wikipedia
+https://en.wikipedia.org/wiki/Homer | Homer - Wikipedia
+https://en.wikipedia.org/wiki/The_Hobbit | The Hobbit - Wikipedia
+https://www.patreon.com/user?u=4328287 | David Chamberlain is creating "Reading Homer": an audio recording of the Iliad and Odyssey | Patreon
+
+https://homermultitext.github.io/se2020/ | Home page | se2020
+https://homermultitext.github.io/se2020/today/ | *Today | se2020
+http://www.homermultitext.org/about/ | About the Homer Multitext | The Homer Multitext project
 -->
 
 ## Issues
