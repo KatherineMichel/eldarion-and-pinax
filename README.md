@@ -11,23 +11,6 @@ https://twitter.com/paltman/status/911070277496426496 | Patrick Altman on Twitte
 https://twitter.com/mikeal/status/1270741335893356546 | Mikeal Rogers on Twitter: "It’s important for the health of programming ecosystems that a notable minority of programmers code with little to no tools. When the ecosystem becomes too homogenous and tool dependent programmers aren’t required to make things as simple or obvious to other consumers." / Twitter
 
 
-https://gist.github.com/jtauber/
-https://www.youtube.com/channel/UCs6LjlDRHaUX_YEwmprJ_ow | James Tauber - YouTube
-https://buttondown.email/jtauber | Journeyman of Some | Buttondown
-
-
-https://github.com/asottile/pyupgrade
-
-Django
-https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/ | Django 3.0 Released | Weblog | Django
-https://docs.djangoproject.com/en/dev/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-
-`from __future__ import`
-
-New features
-f-strings
-type checking
 
 
 GitHub Tip
@@ -61,31 +44,13 @@ https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
 https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
 
 
-
-
 https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
-https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
-https://pinax.slack.com/archives/C04R5AQU6/p1586806912037400
-
-https://github.com/pinax/django-flag/pull/14 | Update to 18.01 by hramezani · Pull Request #14 · pinax/django-flag
-https://github.com/pinax/django-flag/issues/11 | doesn't work with newer Django · Issue #11 · pinax/django-flag
-
-https://twitter.com/jtauber/status/1255558701261262850
-https://twitter.com/RippulCorp
-https://www.flake8rules.com/rules/W504.html
-https://github.com/pinax/pinax-stripe/pull/620
 
 Tools
 https://deepsource.io/
 htmlcov
 
-Mine
-https://dashboard.heroku.com/apps/pinax-account-app | pinax-account-app | Heroku
-https://pinax-account-app.herokuapp.com/ | example.com [localhost] | pinax-project-account
-
-https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L297 | colossus/views.py at master · vitorfs/colossus
-https://github.com/vitorfs/colossus/blob/master/colossus/apps/campaigns/views.py#L303 | colossus/views.py at master · vitorfs/colossus
 
 https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
 
@@ -111,6 +76,11 @@ https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Se
 ## Digital Humanities
 
 <!--
+https://gist.github.com/jtauber/
+
+Scaife Viewer, DALME, Jacoby Online, the Greek Learner Texts Project, and the Digital Tolkien Project
+https://twitter.com/jtauber/status/1255558701261262850
+
 Kubernetes
 https://kubernetes.io/docs/concepts/cluster-administration/federation/ | Federation | Kubernetes
 https://cloud.google.com/kubernetes-engine/ | Google Kubernetes Engine  |  Kubernetes Engine  |  Google Cloud
@@ -506,6 +476,11 @@ Gondor
 * [James Tauber GitHub](https://github.com/jtauber)
 * [Patrick Altman](http://paltman.com), [Patrick Altman Twitter](https://twitter.com/paltman), and [Patrick Altman CodePen](https://codepen.io/paltman)
 * [Michael Herman](https://mherman.org/) 
+
+<!--
+https://www.youtube.com/channel/UCs6LjlDRHaUX_YEwmprJ_ow | James Tauber - YouTube
+https://buttondown.email/jtauber | Journeyman of Some | Buttondown
+-->
 
 ## Pinax Links
 
