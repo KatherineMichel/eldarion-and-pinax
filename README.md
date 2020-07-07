@@ -90,6 +90,7 @@ https://github.com/KatherineMichel/pinax-blog/blob/futurize/pinax/blog/views.py.
 https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
 -->
 
+
 <!--
 Classics
 https://en.wikipedia.org/wiki/J._R._R._Tolkien | J. R. R. Tolkien - Wikipedia
@@ -98,20 +99,21 @@ https://en.wikipedia.org/wiki/Homer | Homer - Wikipedia
 https://en.wikipedia.org/wiki/The_Hobbit | The Hobbit - Wikipedia
 https://www.patreon.com/user?u=4328287 | David Chamberlain is creating "Reading Homer": an audio recording of the Iliad and Odyssey | Patreon
 
+https://homermultitext.github.io/se2020/ | Home page | se2020
+https://homermultitext.github.io/se2020/today/ | *Today | se2020
+http://www.homermultitext.org/about/ | About the Homer Multitext | The Homer Multitext project
 
-https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
-https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
-https://github.com/deep-philology/DeepVocabulary/wiki/Overview
-https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
-https://github.com/deep-reader/DeepReader
-
+https://graphql.org/
+Atlas Server
 
 http://capitains.org/ | CapiTainS
 https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
 
 Digital Sira
 https://github.com/eldarion-client/digital-sira
-https://github.com/eldarion-client/digital-sira-atlas#sample-queries
+https://github.com/eldarion-client/digital-sira-atlas#sample-queries | eldarion-client/digital-sira-atlas: An ATLAS implementation for digital-sira
+
+https://dsp-dar-demo.eldarion.com/
 
 GraphQL
 https://digital-sira-dev-api-gql.herokuapp.com/graphql/
@@ -140,6 +142,13 @@ https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scai
 https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
 https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
 https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
+
+
+https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
+https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
+https://github.com/deep-philology/DeepVocabulary/wiki/Overview
+https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
+https://github.com/deep-reader/DeepReader
 -->
 
 ## Issues
