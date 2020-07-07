@@ -11,8 +11,6 @@ https://twitter.com/paltman/status/911070277496426496 | Patrick Altman on Twitte
 https://twitter.com/mikeal/status/1270741335893356546 | Mikeal Rogers on Twitter: "It’s important for the health of programming ecosystems that a notable minority of programmers code with little to no tools. When the ecosystem becomes too homogenous and tool dependent programmers aren’t required to make things as simple or obvious to other consumers." / Twitter
 
 
-
-
 GitHub Tip
 https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
 
@@ -170,11 +168,16 @@ https://github.com/owais/django-webpack-loader | owais/django-webpack-loader: Tr
 
 Important!
 Installation guidance
+https://pinax.slack.com/messages/C04R5AQU6/
 https://pinax.slack.com/archives/C04R5AQU6/p1586806912037400
 https://github.com/pinax/pinax-starter-projects/tree/account | pinax/pinax-starter-projects at account
 
 https://github.com/pinax/pinax/blob/adding-npm-guidance/docs/quick_start.md
 https://github.com/pinax/pinax/tree/adding-npm-guidance
+
+Integrating app
+https://pinax.slack.com/archives/C04R5AQU6/p1588695461054200
+https://app.slack.com/client/T04R5AQTQ/C04R5AQU6/thread/C04R5AQU6-1588695461.054200
 -->
 
 ## Trello
