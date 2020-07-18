@@ -3,7 +3,8 @@
 <!--
 https://pypi.org/manage/projects/
 
-Django Packages
+Django packages
+https://github.com/pinax/pinax-messages/issues/49#event-1606896244
 https://djangopackages.org/packages/p/pinax-messages/ | Django Packages : pinax-messages
 https://djangopackages.org/grids/g/messaging/ | Django Packages : Messaging
 
