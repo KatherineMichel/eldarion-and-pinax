@@ -3,6 +3,13 @@
 <!--
 https://pypi.org/manage/projects/
 
+Django Packages
+https://djangopackages.org/packages/p/pinax-messages/ | Django Packages : pinax-messages
+https://djangopackages.org/grids/g/messaging/ | Django Packages : Messaging
+
+https://pypi.org/project/django-bootstrap-form/ | django-bootstrap-form · PyPI
+https://pypi.org/project/django-test-plus/ | django-test-plus · PyPI
+
 
 https://twitter.com/paltman/status/1051682302185664512 | Patrick Altman on Twitter: "For me, it was picking something to build and using the Django documentation which is amazing. Beyond that, getting involved in open source Django projects, like @pinaxproject. It really is an awesome and welcoming community.… https://t.co/Kbv0a9v5sO"
 https://twitter.com/paltman/status/911050310348677120 | Patrick Altman on Twitter: "What do you think about all of a project’s documentation living in an indexed and comprehensive README vs a docs site? #opensource"
