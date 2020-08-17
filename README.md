@@ -1,91 +1,81 @@
 # Eldarion and Pinax
 
 <!--
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+
 https://pypi.org/manage/projects/
-
-Django packages
-https://github.com/pinax/pinax-messages/issues/49#event-1606896244
-https://djangopackages.org/packages/p/pinax-messages/ | Django Packages : pinax-messages
-https://djangopackages.org/grids/g/messaging/ | Django Packages : Messaging
-
-https://pypi.org/project/django-bootstrap-form/ | django-bootstrap-form · PyPI
-https://pypi.org/project/django-test-plus/ | django-test-plus · PyPI
-
-
-https://twitter.com/paltman/status/1051682302185664512 | Patrick Altman on Twitter: "For me, it was picking something to build and using the Django documentation which is amazing. Beyond that, getting involved in open source Django projects, like @pinaxproject. It really is an awesome and welcoming community.… https://t.co/Kbv0a9v5sO"
-https://twitter.com/paltman/status/911050310348677120 | Patrick Altman on Twitter: "What do you think about all of a project’s documentation living in an indexed and comprehensive README vs a docs site? #opensource"
-https://twitter.com/paltman/status/911070277496426496 | Patrick Altman on Twitter: "Just a few of the new app badges @pinaxproject apps are getting. Can you guess which badge goes with which app? https://t.co/U0slbxR9Tq"
-
-https://twitter.com/mikeal/status/1270741335893356546 | Mikeal Rogers on Twitter: "It’s important for the health of programming ecosystems that a notable minority of programmers code with little to no tools. When the ecosystem becomes too homogenous and tool dependent programmers aren’t required to make things as simple or obvious to other consumers." / Twitter
-
-
-GitHub Tip
-https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
-
 https://github.com/watching
-https://mobile.twitter.com/aaronbassett/status/1248353221678116864
 
 Important- Recent Activity
 https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
 
-
-https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
-
-dj3
-https://github.com/d3/d3/wiki
-https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
-https://guides.github.com/features/wikis/
-https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
-https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
+GitHub Tip
+https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
 
 Release
 https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
 https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
 
-
-https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
-
-
-Tools
-https://deepsource.io/
-htmlcov
-
-
-https://github.com/heckj/pinax_cheat_sheets/blob/master/pagination.markdown | pinax_cheat_sheets/pagination.markdown at master · heckj/pinax_cheat_sheets
-
-http://pinaxproject.com/pinax/#colophon | Pinax Documentation - Pinax Documentation
-
-Work in Progress- Pinax Releases
-* [Glob](https://docs.python.org/3/library/glob.html#glob.glob)
-* [Lincoln Loop: "Using setup.py in Your (Django) Project"](https://lincolnloop.com/blog/using-setuppy-your-django-project)
-* [Graham: setup.py](https://github.com/pinax/pinax-starter-projects/pull/56/commits/262c712da313e4ba4ee743654ddad5752d4a0268)
-
-* [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
-
-Case Study
-https://github.com/pinax/pinax-referrals/blob/master/pinax/referrals/tests/tests.py | pinax-referrals/tests.py at master · pinax/pinax-referrals
-
-Porting example
-https://github.com/KatherineMichel/pinax-blog/blob/futurize/pinax/blog/views.py.bak | pinax-blog/views.py.bak at futurize · KatherineMichel/pinax-blog
-
-https://pinax-stripe.readthedocs.io/en/latest/user-guide/settings/#hooksets | Settings & Configuration - Pinax Stripe
+Django packages
+https://github.com/pinax/pinax-messages/issues/49#event-1606896244
+https://djangopackages.org/packages/p/pinax-messages/ | Django Packages : pinax-messages
+https://djangopackages.org/grids/g/messaging/ | Django Packages : Messaging
 -->
-
 
 ## Digital Humanities
 
 <!--
-https://gist.github.com/jtauber/
+https://en.wikipedia.org/wiki/Digital_humanities | Digital humanities - Wikipedia
+
+https://twitter.com/jtauber/status/1265628897908944899 | James Tauber on Twitter: "Busy time for @eldarion this week as we wrap up the first phase of our work on the Digital Sira and DALME projects, and get near the end of our Mellon-funded work enriching the kinds of annotations and alignments viewable in Scaife." / Twitter
 
 Scaife Viewer, DALME, Jacoby Online, the Greek Learner Texts Project, and the Digital Tolkien Project
 https://twitter.com/jtauber/status/1255558701261262850
+
+Digital Sira
+https://github.com/eldarion-client/digital-sira
+https://github.com/eldarion-client/digital-sira-atlas#sample-queries | eldarion-client/digital-sira-atlas: An ATLAS implementation for digital-sira
+
+https://dsp-dar-demo.eldarion.com/
+
+GraphQL
+https://digital-sira-dev-api-gql.herokuapp.com/graphql/
+https://github.com/graphql-python/graphene-django/blob/master/graphene_django/templates/graphene/graphiql.html
+https://graphql.org/
+
+https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
+
+https://scaife-viewer.org/ | The Scaife Viewer Project
+https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
+https://github.com/scaife-viewer
+https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
+https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
+
+Scaife
+https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
+https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
+https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
+https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
+https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
+
+https://digitaltolkien.com/welcome-to-digital-tolkien/ | Welcome to Digital Tolkien | Digital Tolkien
+https://digitaltolkien.com/
+https://github.com/digitaltolkien/
+
+https://github.com/greek-learner-texts/greek-learner-texts.github.io | greek-learner-texts/greek-learner-texts.github.io: website
+
+
+
+
+https://gist.github.com/jtauber/
+
+https://signumuniversity.org/ | Welcome to Signum University | Affordable Online Education
+https://www.twitch.tv/Signumu | (1) SignumU - Twitch
+
+Alpheios
+https://twitter.com/eldarion/status/1250143814494216192 | Eldarion, Inc. on Twitter: "Including our own @jtauber... https://t.co/78wvOBzZsj" / Twitter
+https://www.alpheios.net/pages/governance/ | The Alpheios Project
 
 Kubernetes
 https://kubernetes.io/docs/concepts/cluster-administration/federation/ | Federation | Kubernetes
@@ -105,40 +95,9 @@ Atlas Server
 http://capitains.org/ | CapiTainS
 https://github.com/Capitains/MyCapytain | Capitains/MyCapytain: CTS And Textual Resources Utility Library for Python 3
 
-Digital Sira
-https://github.com/eldarion-client/digital-sira
-https://github.com/eldarion-client/digital-sira-atlas#sample-queries | eldarion-client/digital-sira-atlas: An ATLAS implementation for digital-sira
-
-https://dsp-dar-demo.eldarion.com/
-
-GraphQL
-https://digital-sira-dev-api-gql.herokuapp.com/graphql/
-https://github.com/graphql-python/graphene-django/blob/master/graphene_django/templates/graphene/graphiql.html
-https://graphql.org/
-
-https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
-
-https://digitaltolkien.com/welcome-to-digital-tolkien/ | Welcome to Digital Tolkien | Digital Tolkien
-https://digitaltolkien.com/
-https://github.com/digitaltolkien/
-
 http://www.perseus.tufts.edu/hopper/ | Perseus Digital Library
 https://github.com/PerseusDL | PerseusDL
 https://twitter.com/PerseusDigLib
-
-https://scaife-viewer.org/ | The Scaife Viewer Project
-https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
-https://github.com/scaife-viewer
-https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
-https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
-
-Scaife
-https://eldarion.com/blog/2019/06/10/building-scaife-viewer-quickly/ | Building a Scaife Viewer Quickly — Eldarion Blog
-https://sites.tufts.edu/perseusupdates/2018/03/19/its-alive-perseus-and-the-scaife-digital-library-viewer/
-https://sites.tufts.edu/perseusupdates/2018/03/15/first-version-of-the-scaife-digital-library-viewer-goes-live-building-the-future-while-remembering-a-friend/
-https://eldarion.com/blog/2018/02/06/countdown-perseus-50-scaife-launch/ | Countdown to the Perseus 5.0 “Scaife” Launch — Eldarion Blog
-https://sites.tufts.edu/perseusupdates/2017/07/22/design-sprint-for-perseus-5-0open-greek-and-latin/ | Design Sprint for Perseus 5.0/Open Greek and Latin » Perseus Digital Library Updates
-
 
 https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
 https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
@@ -159,12 +118,14 @@ https://homermultitext.github.io/se2020/today/ | *Today | se2020
 http://www.homermultitext.org/about/ | About the Homer Multitext | The Homer Multitext project
 -->
 
+
 ## Issues
 
 <!--
 Important!
 Windows problem
 https://github.com/pinax/pinax/issues/152 | Pinax tutorial for installation not working on windows · Issue #152 · pinax/pinax
+https://github.com/pinax/pinax-blog/issues/126 | Can't run project with npm run dev · Issue #126 · pinax/pinax-blog
 
 https://github.com/pinax/pinax-blog/issues/117 | Markdown 3.0 installation causes startup exception · Issue #117 · pinax/pinax-blog
 JavaScript and Node
@@ -196,6 +157,8 @@ https://app.slack.com/client/T04R5AQTQ/C04R5AQU6/thread/C04R5AQU6-1588695461.054
 ## Pinax Docs
 
 <!--
+https://wagtail.io/ | Django Content Management System | Wagtail CMS
+
 Docs
 https://katherinemichel.github.io/pinax/ | Pinax Documentation - Pinax Documentation
 
@@ -220,6 +183,7 @@ Blog Post
 First time contributors, special features, major contributors
 
 Example blog posts
+https://blog.pinaxproject.com/2018/02/01/django-20-stripe-connect-templates-patches/ | Pinax 18.01: Django 2.0, Stripe Connect, Templates, and Patches | The Pinax Project Blog
 http://blog.pinaxproject.com/2017/10/26/pinax-stripe-400-release-coming-soon/
 http://blog.pinaxproject.com/2016/02/15/updates-pinax-starter-projects/
 http://blog.pinaxproject.com/2015/12/14/release-roundup-to-kick-off-december/
