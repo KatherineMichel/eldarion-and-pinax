@@ -1,6 +1,30 @@
 # Eldarion and Pinax
 
 <!--
+https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
+
+Pinax
+https://docs.github.com/en/actions/configuring-and-managing-workflows/sharing-workflow-templates-within-your-organization | Sharing workflow templates within your organization - GitHub Docs
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
+
+Inspired Pinax release approach
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+Distro
+http://distrowatch.com/table.php?distribution=ubuntu
+https://en.wikipedia.org/wiki/Linux_distribution
+
+Casey
+https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
+Awesome- Pinax
+Release
+https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
+
+https://github.com/tox-dev/action
+
+
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 
@@ -12,10 +36,6 @@ https://help.github.com/en/github/setting-up-and-managing-your-github-user-accou
 
 GitHub Tip
 https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
-
-Release
-https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
-https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
 
 Django packages
 https://github.com/pinax/pinax-messages/issues/49#event-1606896244
