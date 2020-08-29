@@ -123,7 +123,6 @@ https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
 https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
 https://github.com/deep-philology/DeepVocabulary/wiki/Overview
 https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
-https://github.com/deep-reader/DeepReader
 
 
 Classics
