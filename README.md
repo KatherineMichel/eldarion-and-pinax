@@ -1,6 +1,44 @@
 # Eldarion and Pinax
 
 <!--
+Eldarion projects
+
+https://github.com/eldarion/srs-lang/
+https://github.com/perseids-project/
+
+https://github.com/jacobwegner | jacobwegner (Jacob Wegner) / Followers
+https://github.com/paltman | paltman (Patrick Altman) / Following
+https://github.com/jtauber | jtauber (James Tauber) / Following
+james harrington
+
+https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
+
+https://github.com/Hedera-Lang-Learn/hedera
+
+https://github.com/eldarion-client/digital-sira
+
+https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
+https://scaife-viewer.org/ | The Scaife Viewer Project
+https://github.com/scaife-viewer
+https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
+https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
+
+https://greek-learner-texts.org/
+
+http://www.perseus.tufts.edu/
+https://sites.tufts.edu/perseusupdates/
+https://github.com/PerseusDL | PerseusDL
+
+https://digitaltolkien.com/about/
+https://digitaltolkien.com/
+https://github.com/digitaltolkien/
+
+https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
+https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
+https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
+-->
+
+<!--
 https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
 
 Pinax
