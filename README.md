@@ -1,6 +1,11 @@
 # Eldarion and Pinax
 
 <!--
+Pinax
+https://en.wikipedia.org/wiki/Software_versioning#Release_train
+
+https://github.com/features/codespaces/ | Codespaces
+
 Eldarion projects
 
 https://github.com/eldarion/srs-lang/
